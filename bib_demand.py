@@ -1,5 +1,15 @@
 #!/usr/bin/env python3
 
+"""
+Filename: bib_demand.py
+Author: Henning Gebhard
+
+This script is pubslished under CC0 (http://creativecommons.org/publicdomain/zero/1.0/):
+To the extent possible under law, Henning Gebhard has waived all copyright and related or
+neighboring rights to bib_demand.py. 
+"""
+
+
 import re
 
 
