@@ -1,0 +1,2273 @@
+Unique items from neu_tib_gvk_swb.txt (568)
+
+Haffer, Dominik
+"The hitchhiker's guide to the archival world" : Räume und Grenzen der Archivwissenschaft ; ausgewählte Transferarbeiten des 45. und 46. wissenschaftlichen Lehrgangs an der Archivschule Marburg
+2014
+
+Döbler, Marie-Kristin
+(Digitale) Medien und soziale Gedächtnisse
+2018
+
+McKenzie, A. T.
+A Grin on the interface : word processing for the academic humanist
+1984
+
+Schreibman, Susan
+A companion to digital humanities
+2004
+
+Schreibman, Susan
+A companion to digital humanities
+2006
+
+Girolami, Mark12096595X
+A first course in machine learning
+2017
+
+McKenzie, Alan T.
+A grin on the interface : word processing for the academic humanist
+1984
+
+Neff, Sarah
+A new approach to information processing with filters and pulses
+2016
+
+Schreibman, Susan
+A new companion to digital humanities
+2016
+
+McGann, Jerome J.
+A new republic of letters : memory and scholarship in the age of digital reproduction
+2014
+
+Vitt, Thorsten
+AP6: TextGrid-Tools I (Pflichtenhefte) (R 6.0.1) : Arbeitspaket 6 ; TextGrid - Vernetzte Forschungsumgebung in den eHumanities ; Berichtszeitraum: Juni 2009 bis Mai 2009
+2010
+
+Vitt, Thorsten
+AP6: TextGrid-Tools I (Pflichtenhefte) (R 6.0.1) : Arbeitspaket 6 ; TextGrid - Vernetzte Forschungsumgebung in den eHumanities ; [Berichtszeitraum: Juni 2009 bis Mai 2009]
+2010
+
+Fettke, Peter
+ARGUMENTUM - Analyse und Synthese von Argumentationsstrukturen durch rechnergestützte Methoden am Beispiel der Rechtswissenschaft : Gemeinsamer Schlussbericht zum Forschungsvorhaben : BMBF-Fördermaßnahme "Förderung von Forschungs- und Entwicklungsvorahben aus dem Bereich der eHumanities"
+2016?
+
+Theodoridis, Sergios12164135X
+Academic Press library in signal processing / [ed. by] Rama Chellappa; Sergios Theodoridis ; Vol. 1: Signal processing theory and machine learning
+2014
+
+kein Autor
+Adaptation, learning, and optimization over networks
+2014
+
+ICANNGA (8 : 2007 : Warschau)
+Adaptive and natural computing algorithms : 8th International Conferences, ICANNGA 2007, Warsaw, Poland, April 11 - 14, 2007; proceedings
+20XX
+
+Taher Azar, Ahmad
+Advanced machine learning technologies and applications : second international conference, AMLTA 2014, Cairo, Egypt, November 28-30, 2014 ; proceedings
+2014
+
+Lampert, Christoph H.
+Advanced structured prediction
+2014
+
+Parui, Swapan Kumar
+Advances in digital document processing and retrieval
+2014
+
+PAKDD (14 : 2010 : Hyderabad)
+Advances in knowledge discovery and data mining : 14th Pacific-Asia Conference, PAKDD 2010, Hyderabat, India, June 21 - 24, 2010; proceedings
+20XX
+
+PAKDD (16 : 2012 : Kuala Lumpur)
+Advances in knowledge discovery and data mining : 16th Pacific-Asia conference; proceedings
+20XX
+
+PAKDD (17 : 2013 : Gold Coast, Queensland)
+Advances in knowledge discovery and data mining : 17th Pacific-Asia conference; proceedings
+20XX
+
+Tygar, J. D.
+Adversarial machine learning
+2017
+
+Hunold, Sven
+Algorithmische Bestimmung der Alterungscharakteristik von Mittelspannungskabelmuffen basierend auf diagnostischen Messwerten und Betriebsmitteldaten
+2017
+
+James, Gareth
+An introduction to statistical learning : with applications in R
+2017
+
+Vogel-Heuser, Birgit
+Analyse, Integration und Visualisierung großer Datenmengen
+2016
+
+Labunets, Valeri G.
+Analysis of images, social networks and texts : 4th international conference, AIST 2015, Yekaterinburg, Russia, April 9-11, 2015 ; revised selected papers
+2015
+
+Lomazova, Irna A.
+Analysis of images, social networks and texts : 6th International Conference, AIST 2017 : Moscow, Russia, July 27-29, 2017 : revised selected papers
+2018
+
+Yavorsky, Rostislav E.
+Analysis of images, social networks and texts : third international conference, AIST 2014, Yekaterinburg, Russia, April 10-12, 2014 ; revised selected papers
+2014
+
+Puri, Ruchir
+Analyzing analytics
+2016
+
+Nadin, Mihai
+Anticipation Across Disciplines
+2016
+
+Deutsches Dokumentationszentrum für Kunstgeschichte - Bildarchiv Foto Marburg
+Architektur Fotografie : Darstellung - Verwendung - Gestaltung
+2016
+
+Giannachi, Gabriella
+Archive everything : mapping the everyday
+2016
+
+Bobade, Bhujangrao
+Archives and museums : preservation, management and digital networking
+2015
+
+Finlay, Steven
+Artificial intelligence and machine learning for business : a no-nonsense guide to data driven technologies
+2017-2017
+
+ICANN (21 : 2011 : Espoo, Veranstaltung )
+Artificial neural networks and machine learning : ICANN 2011, 21st International Conference on Artificial Neural Networks, Espoo, Finland, June 14 - 17, 2011; proceedings
+20XX
+
+Munzert, Simon
+Automated data collection with R : a practical guide to web scraping and text mining
+2015
+
+Graubitz, Henner
+Automatische Ableitung von Balanced Scorecards aus Textkorpora
+2017
+
+International Calibration Conference (9. : 2017 : Berlin)
+Automotive data analytics, methods, DoE : proceedings of the International Calibration Conference
+2017
+
+kein Autor
+Bayesian machine learning in analysis of selected identification problems in mechanics of materials and structures
+2014
+
+Selig, Thomas
+Bericht zu notwendigen Veränderungen und Ergänzungen bei den Issue-Trackern etc. für ein Entwickler (R 4.2.1) : Arbeitspaket 4 ; TextGrid - Vernetzte Forschungsumgebung in den eHumanities ; Laufzeit: Juni 2009 bis Mai 2012
+2011
+
+Selig, Thomas
+Bericht zu notwendigen Veränderungen und Ergänzungen bei den Issue-Trackern etc. für ein Entwickler (R 4.2.1) : Arbeitspaket 4 ; TextGrid - Vernetzte Forschungsumgebung in den eHumanities ; [Laufzeit: Juni 2009 bis Mai 2012]
+2011
+
+Woischwill, Branko
+Berufsziel Social Media : wie Karrieren im Web 2.0 funktionieren
+2015
+
+kein Autor
+Beyond technology : children's learning in the age of digital culture
+2007
+
+Adamo, Giovanni
+Bibliografia di informatica umanistica
+1994
+
+Big Data - Chancen, Risiken, Entwicklungstendenzen (2017 : Wiesbaden, Veranstaltung )
+Big Data : Chancen, Risiken, Entwicklungstendenzen
+2018
+
+Lorenzen, Knut1020241446
+Big Data : Entwicklung und Programmierung von Systemen für große Datenmengen und Einsatz der Lambda-Architektur
+2016
+
+Meier, Andreas
+Big Data : Grundlagen, Systeme und Nutzungspotenziale
+2016
+
+Mayer-Schönberger, Viktor
+Big Data : die Revolution, die unser Leben verändern wird
+2017
+
+Marr, Bernard
+Big Data : using Smart Big Data, analytics and metrics to make better decisions and improve performance
+2015
+
+Freiknecht, Jonas
+Big Data in der Praxis : Lösungen mit Hadoop, HBase und Hive; Daten speichern, aufbereiten, visualisieren; [auf DVD: 18 fertige Beispielprojekte plus Videotutorials]
+2014
+
+kein Autor
+Big Digital Humanities
+2016
+
+Dastjerdi, Amir Vahid
+Big data : principles and paradigms
+2016
+
+Marr, Bernard
+Big data for small business for dummies : a Wiley brand
+2016
+
+Erl, Thomas
+Big data fundamentals : concepts, drivers & techniques
+2016
+
+McSharry, Patrick E.
+Big data revolution : what farmers, doctors and insurance agents teach us about discovering big data patterns
+2015
+
+Dean, Jared
+Big data, data mining, and machine learning : value creation for business leaders and practitioners
+2014
+
+kein Autor
+Big digital humanities : imagining a meeting place for the humanities and the digital
+2016
+
+Hwang, Kai
+Big-data analytics for cloud, IoT and cognitive computing
+2017
+
+Gull, Clemens
+BigData mit JavaScript visualisieren : D3.js für die Darstellung großer Datenmengen einsetzen
+2014
+
+Tipney, Hannah Jane
+Biomedical literature mining
+2014
+
+kein Autor
+Breaking the book : print humanities in the digital age
+2015
+
+kein Autor
+Building search applications : Lucene, LingPipe, and Gate ; [a practical guide to building search applications using open source software]
+2008
+
+kein Autor
+Business Analytics for Managers
+2011
+
+kein Autor
+CH working papers
+Nachgewiesen 1996 -
+
+Breitbarth, Tim137741456
+CSR und Social Media : Unternehmerische Verantwortung in sozialen Medien wirkungsvoll vermitteln
+2014
+
+Breitbarth, Tim137741456
+CSR und Social Media : unternehmerische Verantwortung in sozialen Medien wirkungsvoll vermitteln
+2014
+
+Kissa, Maria
+Cassandra : drug gene association prediction via text mining and ontologies
+2015
+
+kein Autor
+Cloud computing for machine learning and cognitive applications
+2017
+
+Bhatnagar, Vishal
+Collaborative filtering using data mining and analysis
+2017
+
+Flinn, Andrew
+Computation and the Humanities : Towards an Oral History of Digital Humanities
+2016
+
+Flinn, Andrew
+Computation and the Humanities: Towards an Oral History of Digital Humanities
+2016
+
+Dessì Schmid, Sarah
+Computational Historical Semantics (Gesamtprojekt) : Kurzbezeichnung: CompHistSem : Schlussbericht : Laufzeit des Vorhabens: 1.4.2013-31.8.2016
+15.3.2017
+
+Jussen, Bernhard112490069
+Computational Historical Semantics (Gesamtprojekt) : Kurzbezeichnung: CompHistSem : Schlussbericht : Laufzeit des Vorhabens: 1.4.2013-31.8.2016
+2017
+
+Lim, Ee-Peng
+Computational trust models and machine learning
+2014
+
+Müller, Albert115851127
+Computer in den Geisteswissenschaften : Konzepte und Berichte
+1989
+
+Kurzynski, Marek
+Computer recognition systems
+20XX
+
+kein Autor
+Computer und geisteswissenschaftliche Forschung: ALLTAG : Themen, Motive, Symbole
+1990
+
+Raben, Joseph
+Computer-assisted research in the humanities
+1977
+
+Zampolli, Antonio
+Computers and the humanities
+1992
+
+Queens College
+Computers and the humanities : official journal of the Association for Computers and the Humanities
+1.1966/67 - 38.2004,4
+
+Bowles, Edmund A.
+Computers in humanistic research : readings and perspectives
+1967
+
+Mitchell, J. L.
+Computers in the humanities
+1974
+
+Holoien, Renee A.
+Computing in the humanities
+1981
+
+International Conference on Computing in the Humanities (3 : 1977 : Waterloo, Ontario)
+Computing in the humanities : proceedings of the third International Conference on Computing in the Humanities
+1977
+
+Vovk, Vladimir133094391
+Conformal prediction for reliable machine learning : theory, adaptations and applications
+2014
+
+Johnson, Eric Arthur
+Controversies around the digital humanities
+2012
+
+Georgi, Claudia
+Convergence Culture Reconsidered - Media - Participation - Environments
+2015
+
+Glaser, Brigitte Johanna13054471X
+Convergence culture reconsidered : media - participation - environments
+2015
+
+kein Autor
+Corpus Linguistics and Statistics with R : Introduction to Quantitative Methods in Linguistics
+2017
+
+Ridge, Mia
+Crowdsourcing our cultural heritage
+2014
+
+Hughes, Lorna M.
+Cultural heritage infrastructures in digital humanities
+2018
+
+kein Autor
+Cyber-proletariat : global labour in the digital vortex
+2015
+
+kein Autor
+DARIAH-DE - Aufbau von Forschungsinfrastrukturen für die e-Humanities : Abschlussbericht : Laufzeit des Vorhabens: 01.03.2011 bis 29.02.2016
+30.08.2016
+
+kein Autor
+DARIAH-DE - Aufbau von Forschungsinfrastrukturen für die e-Humanities : Abschlussbericht : Laufzeit des Vorhabens: 01.03.2011 bis 29.02.2016
+2016
+
+kein Autor
+DARIAH-DE : Aufbau von Forschungsinfrastrukturen für die e-Humanities
+2012
+
+Boler, Megan
+DIY citizenship : critical making and social media
+2014
+
+Zwies, Sebastian
+Das Kloster Fulda und seine Urkunden : moderne archivische Erschließung und ihre Perspektiven für die historische Forschung ; [ ... Beiträge einer Tagung am 22./23. März 2012 im Audimax der Bibliothek der Theologischen Hochschule Fulda]
+2014
+
+kein Autor
+Das Touchpoint-Unternehmen : Mitarbeiterführung in unserer neuen Businesswelt
+2014
+
+Manolopoulos, Yannis
+Data Analytics and Management in Data Intensive Domains : XVIII International Conference, DAMDID/RCDL 2016, Ershovo, Moscow, Russia, October 11-14, 2016 : revised selected papers
+2017
+
+Cleve, Jürgen
+Data Mining
+2016
+
+Runkler, Thomas A.
+Data Mining : Modelle und Algorithmen intelligenter Datenanalyse
+2015
+
+VanderPlas, Jake
+Data Science mit Python : das Handbuch für den Einsatz von IPython, Jupyter, NumPy, Pandas, Matplotlib und Scikit-Learn
+2018
+
+Cleve, Jürgen
+Data mining
+2016
+
+kein Autor
+Data mining and machine learning in building energy analysis
+2016
+
+North, Matthew
+Data mining for the masses : with implementations in RapidMiner and R
+2016
+
+Maimon, Oded143250833
+Data mining with decision trees : theory and applications
+2015
+
+Mayr, Manfred
+Data science - analytics and applications : proceedings of the 1st International Data Science Conference - iDSC 2017
+2017
+
+Oettinger, Michael
+Data science : eine praxisorientierte Einführung im Umfeld von Machine Learning, künstlicher Intelligenz und Big Data
+2017
+
+McCrank, Lawrence J.
+Databases in the humanities and social sciences - 4 : proceedings of the International Conference on Databases in the Humanities and Social Sciences held at Auburn University at Montgomery, July, 1987
+1989
+
+Moberg, Thomas F.
+Databases in the humanities and social sciences, 1985 : [... Fifth International Conference on Data Bases in the Humanities and Social Sciences, held at Grinnel College, Grinnel, Iowa, on June 22 - 24, 1985]
+1987
+
+Rizzolli, Michaela
+Datenflut und Informationskanäle
+2014
+
+Meij, Jeroen
+Dealing with the data flood : mining data, text and multimedia
+2002
+
+Gold, Matthew K.
+Debates in the digital humanities
+2012
+
+Klein, Lauren F.
+Debates in the digital humanities : 2016
+2016
+
+Goodfellow, Ian
+Deep learning
+2016
+
+Patterson, Josh
+Deep learning : a practitioners approach
+2017
+
+Shen, Dinggang
+Deep learning for medical image analysis
+2017
+
+Eichenberger-Liwicki, Marcus
+Deep learning in space and time for document image processing
+November 2016
+
+Karthikeyan, Natesapillai
+Deep learning innovations and their convergence with big data
+2018
+
+Graupe, Daniel
+Deep learning neural networks : design and case studies
+2016
+
+Allaire, Joseph J.
+Deep learning with R
+2018
+
+Reamy, Tom
+Deep text : using text analytics to conquer information overload, get real value from social media, and add big(ger) text to big data
+2016
+
+Vanhoutte, Edward
+Defining digital humanities : a reader
+2013
+
+Knilli, Friedrich
+Der elektronische Literaturbericht : das Datenbankprogramm Jud Süß, Juden und Medien
+1991
+
+Sudowe, Patrick
+Detailed visual person analysis based on attribute models learned from data
+2017
+
+Martin, Lindsey
+Developing digital scholarship : emerging practices in academic libraries
+2016
+
+kein Autor
+Developmental robotics : from babies to robots
+2015
+
+Schüller-Zwierlein, André
+Diachrone Zugänglichkeit als Prozess : kulturelle Überlieferung in systematischer Sicht
+2014
+
+Walter, Steffen
+Diagnostik der Schmerzintensität, basierend auf multimodalen Signalen und maschinellem Lernen : als Habilitationsschrift der Medizinischen Fakultät der Universität Ulm für das Fachgebiet Medizinische Psychologie
+2016
+
+kein Autor
+Dictionary learning in visual computing
+2015
+
+Schmid, Bernhard
+Die Null-Grenzkosten-Gesellschaft : das Internet der Dinge, kollaboratives Gemeingut und der Rückzug des Kapitalismus
+2014
+
+Wachter, Clemens
+Die brisante Akte : problembehaftete Bestände in Universitäts- und Wissenschaftsarchiven : Frühjahrstagung der Fachgruppe 8 im Verband deutscher Archivarinnen und Archivare e.V. 18. bis 20. März 2015 in Erlangen
+2016
+
+Gründling, Stefan
+Die elektronische Edition der Briefe von und an Frank Wedekind : Ein innovatives Projekt in den e-Humanities
+2010
+
+Wenninger, Andreas
+Die qualitative Analyse internetbasierter Daten : Methodische Herausforderungen und Potenziale von Online-Medien
+2015
+
+Wenninger, Andreas
+Die qualitative Analyse internetbasierter Daten : methodische Herausforderungen und Potenziale von Online-Medien
+2015
+
+Bodard, Gabriel
+Digital Classics Outside the Echo-Chamber
+2016
+
+Gabriel, Bodard
+Digital Classics Outside the Echo-Chamber: Teaching, Knowledge Exchange & Public Engagement
+2016
+
+Romanello, Matteo
+Digital Classics Outside the Echo-Chamber: Teaching, Knowledge Exchange &amp; Public Engagement
+2016
+
+Rehbein, Malte
+Digital Humanities : Eine Einführung
+2017
+
+kein Autor
+Digital Humanities : Grundlagen und Technologien für die Praxis
+2016
+
+kein Autor
+Digital Humanities : Grundlagen und Technologien für die Praxis
+2015
+
+Schmale, Wolfgang118159623
+Digital Humanities : Praktiken der Digitalisierung, der Dissemination und der Selbstreflexivität
+2015
+
+Rehbein, Malte138675252
+Digital Humanities : eine Einführung
+2017
+
+Cubitt, Sean
+Digital Light
+2015
+
+Campana, Stefano1053684002
+Digital Methods and Remote Sensing in Archaeology : Archaeology in the Age of Sensing
+2016
+
+kein Autor
+Digital Papyrology I : Methods, Tools and Trends
+2017
+
+kein Autor
+Digital Rhetoric: Theory, Method, Practice
+2015
+
+Ridolfo, Jim
+Digital Samaritans : rhetorical delivery and engagement in the digital humanities
+2015
+
+kein Autor
+Digital Samaritans: Rhetorical Delivery and Engagement in the Digital Humanities
+2015
+
+Lambert, Nicholas
+Digital art : a history
+2018
+
+kein Autor
+Digital culture in architecture : an introduction for the design professions
+2010
+
+Rettberg, Jill Walker
+Digital culture, play, and identity : a World of Warcraft reader
+2008
+
+Wu, Steven
+Digital heritage and culture : strategy and implementation
+2015
+
+Espahangizi, Kijan
+Digital humanities
+2013
+
+kein Autor
+Digital humanities : Grundlagen und Technologien für die Praxis
+2015
+
+Fagerjord, Anders1131733533
+Digital humanities : knowledge and critique in a digital age
+2017
+
+kein Autor
+Digital humanities and digital media : conversations on politics, culture, aesthetics and literacy
+2016
+
+Nyhan, Julianne
+Digital humanities in practice
+2012
+
+Purcell, Aaron D.
+Digital library programs for libraries and archives : developing, managing, and sustaining unique digital collections
+2016
+
+Boomen, Marianne van den
+Digital material : tracing new media in everyday life and technology
+2009
+
+Jin, Dal Yong
+Digital platforms, imperialism and political culture
+c 2015
+
+Corrado, Edward M.
+Digital preservation for libraries, archives, and museums
+2014
+
+Pierazzo, Elena
+Digital scholarly editing : theories and practices
+2016
+
+kein Autor
+Digitale Archivierung : Innovationen - Strategien - Netzwerke
+2016
+
+kein Autor
+Digitale Datenbanken. Eine Medientheorie im Zeitalter von Big Data
+2015
+
+Sinner, Dominik
+Digitale Fotografie : Fotografische Gestaltung - Optik - Kameratechnik
+2017
+
+Uhde, Karsten
+Digitale Registraturen - digitale Archivierung : pragmatische Lösungen für kleinere und mittlere Archive? : Beiträge zum 16. Archivwissenschaftlichen Kolloquium der Archivschule Marburg
+2014
+
+Vanscheidt, Philipp
+Digitale Rekonstruktionen mittelalterlicher Bibliotheken : [im Januar 2013 initiierte das Forschungsprojekt "Virtuelles Skriptorium St. Matthias" eine Tagung mit dem Thema "Digitale Rekonstruktionen Mittelalterlicher Bibliotheken" ...]
+2014
+
+Heyen, Nils B.
+Digitale Selbstvermessung und quantified self : Potenziale, Risiken und Handlungsoptionen
+2016
+
+Wittpahl, Volker
+Digitale Souveränität : Bürger
+2017
+
+Land, Karl-Heinz1036270432
+Digitaler Darwinismus : Der stille Angriff auf Ihr Geschäftsmodell und Ihre Marke. Das Think!Book
+2016
+
+kein Autor
+Digitales Kulturerbe : Bewahrung und Zugänglichkeit in der wissenschaftlichen Praxis
+2015-01-01
+
+Wittpahl, Volker1035165627
+Digitalisierung : Bildung, Technik, Innovation
+2017
+
+Oertel, Stephanie
+Digitalisierung im Archiv : neue Wege der Bereitstellung des Archivguts : Beiträge zum 18. Archivwissenschaftlichen Kolloquium der Archivschule Marburg
+2015
+
+Snickars, Pelle
+Digitalism : när allting är internet
+2014
+
+Leggett, Elizabeth R.
+Digitization and digital archiving : a practical guide for librarians
+2014
+
+Piepenburg, Scott
+Digitizing audiovisual and nonprint materials : the innovative librarian's guide
+2015
+
+Caro, Susanne
+Digitizing your collection : public library success stories
+2016
+
+Xie, Iris
+Discover digital libraries : theory and practice
+2016
+
+Furlan, Nadja Valentinčič
+Documenting and presenting intangible cultural heritage on film = Dokumentiranje in predstavljanje nesnovne kulturne dediščine s filmom
+2015
+
+Sant, Toni
+Documenting performance : the context and processes of digital curation and archiving
+2017
+
+Fanzhang, Li
+Dynamic fuzzy machine learning
+2018
+
+Akimitsu, Toshio
+Dēta no bunseki to chishiki hakken
+2016
+
+kein Autor
+E-Humanities
+kein Jahr
+
+Khanna, Rahul
+Efficient learning machines : theories, concepts, and applications for engineers and system Designers
+2015
+
+Khanna, Rahul140238883
+Efficient learning machines : theories, concepts, and applications for engineers and system designers
+2015
+
+Krause, Celia
+Ein Bild sagt mehr als tausend Pixel? : digitale Forschungsansätze in den Bild- und Objektwissenschaften
+2016
+
+Müller, Andreas Christian
+Einführung in Machine Learning mit Python : Praxiswissen Data Science
+2017
+
+kein Autor
+Einsatz von Social Media für das Dienstleistungsmanagement
+2015
+
+Hartmann, Thomas
+Einsatz von Text- und Image Mining Algorithmen bei einer zweistufigen Klassifikation von Patentdokumenten aus dem Bereich Maschinenbau
+2015
+
+Ferneda, Edilson
+Emerging technologies of text mining : techniques and applications
+2008
+
+Shibamoto, Masahiko
+Empirical assessment of the impact of monetary policy communication on the financial market
+2016
+
+Lobin, Henning
+Engelbarts Traum : wie der Computer uns Lesen und Schreiben abnimmt
+2014
+
+kein Autor
+Enhancing software fault prediction with machine learning : emerging research and opportunities
+2017
+
+Hilbert, Andreas
+Entwicklung eines generischen Vorgehensmodells für Text Mining
+2014
+
+Hawliczek, Jan
+Erfolgsfaktor Sourcing : Such- und Ansprachestrategien im World Wide Web
+2017
+
+kein Autor
+Erste Schritte Social Media : ein Ratgeber für kleine Unternehmen, Handwerker und Freiberufler
+2014
+
+Hillert, Alexander Markus
+Essays in empirical finance
+2015
+
+kein Autor
+Event-driven surveillance : possibilities and challenges
+2012
+
+Rapp, Andrea118015915
+Evolution der Informationsinfrastruktur : Kooperation zwischen Bibliothek und Wissenschaft
+2013
+
+kein Autor
+Exploratory programming for the arts and humanities
+2016
+
+Schubert, Charlotte
+Exploring concept change and transfer in antiquity : moderne Informationstechnologien in den Altertumswissenschaften, eXChange : BMBF Förderschwerpunkt: Förderung von Forschungs- und Entwicklungsvorhaben aus dem Bereich der eHumanities
+2016?
+
+Deufert, Marcus114587744
+Exploring concept change and transfer in antiquity : moderne Informationstechnologien in den Altertumswissenschaften, eXChange : BMBF Förderschwerpunkt: Förderung von Forschungs- und Entwicklungsvorhaben aus dem Bereich der eHumanities
+2016
+
+Wetenschappelijke Raad voor het Regeringsbeleid
+Exploring the boundaries of Big Data
+2016
+
+Reichartz, Frank Johann
+Extraction of semantic relations from text with tree kernel methods
+2011
+
+kein Autor
+Facebook, Surfen und Co. : so ist mein Kind sicher im Internet : [alle Maßnahmen zum Schutz Ihres Kindes im Internet schnell und einfach erklärt ; Cybermobbing, Facebook-Partys, Kostenfallen, Urheberrechtsverletzungen, Onlinesucht etc. erkennen und vermeiden ; Schritt-für-Schritt-Anleitungen für die sichere Nutzung von Facebook, Google+ und Co.]
+2014
+
+Liu, Huan
+Feature engineering for machine learning and data analytics
+2018
+
+Griffin, F. Hollis
+Feeling normal : sexuality and media criticism in the digital age
+2016
+
+Fiedler, Norman
+Finales Organisationsmodell und Satzung/Statuten der TextGrid-Organisation, R 3.1.2 : Arbeitspaket 3 ; TextGrid - Vernetzte Forschungsumgebung in den eHumanities ; Laufzeit: Juni 2009 bis Mai 2012
+2012
+
+Fiedler, Norman
+Finales Organisationsmodell und Satzung/Statuten der TextGrid-Organisation, R 3.1.2 : Arbeitspaket 3 ; TextGrid - Vernetzte Forschungsumgebung in den eHumanities ; [Laufzeit: Juni 2009 bis Mai 2012]
+2012
+
+Malioutov, Dmitry
+Financial signal processing and machine learning
+2016
+
+kein Autor
+Follow me! : erfolgreiches Social Media Marketing mit Facebok, Twitter und Co. ; [von der Planung bis zum Controlling und Reputation Management ; Kundenbeziehungen stärken und Empfehlungsmarketing nutzen ; inkl. Google+, Social Media Monitoring und vielen Praxisbeispielen ; neu: mit aktuellen Rechtstipps und Marketing-Takeaways]
+2014
+
+Bannour, Karim-Patrick1012537889
+Follow me! : erfolgreiches Social Media Marketing mit Facebook, Twitter und Co.
+2017
+
+Kömm, Holger
+Forecasting high-frequency volatility shocks : an analytical real-time monitoring system
+2016
+
+Spranger, Michael
+Forensik in der digitalen Welt : Moderne Methoden der forensischen Fallarbeit in der digitalen und digitalisierten realen Welt
+2017
+
+Hirshon, Arnold
+Forging the future of special collections
+2016
+
+kein Autor
+Forschungsumgebungen in den Digital Humanities : Nutzerbedarf, Wissenstransfer, Textualität
+2016
+
+kein Autor
+Friendship and Politics in Post-Revolutionary France
+2014
+
+Iafrate, Fernando
+From big data to smart data
+2015
+
+Berti, Agustín
+From digital to analog : Agrippa and other hybrids in the beginnings of digital culture
+2015
+
+Kominko, Maja
+From dust to digital : ten years of the Endangered Archives Programme
+c2015
+
+Nichols, Stephen G.
+From parchment to cyberspace : medieval literature in the digital age
+2016
+
+Falk, Thorsten
+From voxels to models : towards quantification in 3-D confocal microscopy
+2016
+
+kein Autor
+Fundamentals of Predictive Text Mining
+2010
+
+Buduma, Nikhil
+Fundamentals of deep learning : designing next-generation machine intelligence algorithms
+2017
+
+D'Arcy, Aoife
+Fundamentals of machine learning for predictive data analytics : algorithms, worked examples, and case studies
+2015
+
+kein Autor
+Fundamentals of predictive text mining
+2010
+
+Magalhães, Ana Gonçalves
+Futuros possíveis : arte, museus e arquivos digitais = Possible futures : art, museums and digital archives
+2014
+
+Heid, Ulrich
+Gemeinsamer Abschlussbericht für das BMBF-Verbundprojekt: Multiple kollektive Identitäten in internationalen Debatten um Krieg und Frieden seit dem Ende des Kalten Krieges : sprachtechnologische Werkzeuge und Methoden für die Analyse mehrsprachiger Textmengen in den Sozialwissenschaften : Akronym: e-Identitity : Laufzeit des Vorhabens: 01.05.2012-31.08.2015
+17.07.2015
+
+kein Autor
+Generation "Social Media" : wie digitale Kommunikation Leben, Beziehungen und Lernen Jugendlicher verändert
+2014
+
+McQuire, Scott
+Geomedia : networked cities and the future of public space
+2016
+
+kein Autor
+Geschichte des virtuellen Denkens
+2018
+
+kein Autor
+Geschichte digital : historische Welten neu vermessen
+2016
+
+Petzold, Thomas
+Global knowledge dynamics and social technology
+2017
+
+Talukdar, Partha Pratim105703696X
+Graph-based semi-supervised learning
+2014
+
+Teboulle, Marc
+Grouping Multidimensional Data : Recent Advances in Clustering
+2006
+
+Kogan, Jacob
+Grouping multidimensional data : recent advances in clustering
+2006
+
+Xiao, Yu
+Gu ji wen ben shu ju ge shi bi jiao yan jiu
+2017
+
+Sahni, Sartaj
+Handbook of big data technologies
+2017
+
+Gaber, Tarek1127251082
+Handbook of research on machine learning innovations and trends / Aboul Ella Hassanien, Cairo University, Egypt, and Tarek Gaber, Suez Canal University, Egypt, editors ; Volume 1
+2017
+
+Gaber, Tarek1127251082
+Handbook of research on machine learning innovations and trends / Aboul Ella Hassanien, Cairo University, Egypt, and Tarek Gaber, Suez Canal University, Egypt, editors ; Volume 2
+2017
+
+Brook Wu, Yi-Fang
+Handbook of research on text and web mining techologies
+2009-
+
+Brook Wu, Yi-Fang141308931
+Handbook of research on text and web mining techologies / Min Song; Yi-Fang Brook Wu, [eds.] ; Vol. 1
+2009
+
+Brook Wu, Yi-Fang141308931
+Handbook of research on text and web mining techologies / Min Song; Yi-Fang Brook Wu, [eds.] ; Vol. 2
+2009
+
+Höchstötter, Nadine132474468
+Handbuch Webmonitoring / Hrsg.: Nadine Höchstötter ; 1: Social Media und Websitemonitoring
+2014
+
+Géron, Aurélien
+Hands-on machine learning with Scikit-Learn and TensorFlow : concepts, tools, and techniques to build intelligent systems
+2017
+
+Levy, Thomas E.
+Heritage and Archaeology in the DigitalAge : Acquisition, Curation, and Dissemination of Spatial Cultural Heritage Data
+2017
+
+Barbier, Benjamin
+Heritage and digital humanities : how should training practices evolve? ; [The symposium, "Heritage and digital humanities" , organ. by the Labex ArtsH2H (Paris 8-Paris Ouest University) together with the French national archives and the Bibliothèque nationale de France ...]
+2014
+
+Karau, Holden
+High Performance Spark : best practices for scaling and optimizing Apache Spark
+2017
+
+Gooding, Paul
+Historic newspapers in the digital age : search all about it
+2017
+
+Rygiel, Philippe
+Historien à l'âge numérique : essai
+2017
+
+Eyal, Nir
+Hooked : wie Sie Produkte erschaffen, die süchtig machen
+2016
+
+Holm, Poul
+Humanities World Report 2015
+2015
+
+Miall, David S.
+Humanities and the computer : new directions
+1990
+
+kein Autor
+Humanities computing
+2014
+
+kein Autor
+Humanities computing
+2005
+
+Turk, Christopher
+Humanities research using computers
+1991
+
+kein Autor
+Identity problems in the Facebook era
+2014
+
+Spanias, Andreas
+Image Understanding Using Sparse Representations
+2014
+
+Ringelhan, Stefanie
+Incentives and performance : governance of research organizations
+2014
+
+Orlandi, Tito
+Informatica testuale : teoria e prassi
+2010
+
+Fiormonte, Domenico
+Informatica umanistica : dalla ricerca allinsegnamento; atti convegni computer, literature and philology Roma 1999 - Alicante 2000
+2003
+
+Rahtz, Sebastian P.
+Information Technology in the humanities : Tools, techniques and applications
+1987
+
+Gordesch, Johannes
+Informationstechnologien in den Geisteswissenschaften
+1993
+
+Rudder, Christian
+Inside Big Data : unsere Daten zeigen, wer wir wirklich sind
+2016
+
+Goldenstein, Jan
+Institutions, cognition, and language : the cultural meaning of corporate responsibility between Global Homogeneity and Local Variation
+2016
+
+Debus, Charlotte Christiane
+Integrative multimodal image analysis using physical models for characterization of brain tumors in radiotherapy
+2016
+
+kein Autor
+Intelligence emerging : adaptivity and search in evolving neural systems
+2015
+
+ACIIDS (8. : 2016 : Da Nang)
+Intelligent information and database systems : 8th Asian conference, ACIIDS 2016, Da Nang, Vietnam, March 14-16, 2016 proceedings
+2016 Reprint d. Ausg. von: 2016
+
+Tolba, Fahmy
+Intelligent natural language processing: trends and applications
+2018
+
+ICIRA (1 : 2008 : Wuhan)
+Intelligent robotics and applications : First International Conference, ICIRA 2008, Wuhan, China, October 15 - 17, 2008; proceedings
+20XX
+
+ICIRA (3 : 2010 : Schanghai)
+Intelligent robotics and applications : third international conference; proceedings
+20XX
+
+Nedjah, Nadia
+Intelligent text categorization and clustering
+2009
+
+Kubek, Mario M.
+Interaktive Anwendungen kontextbasierter Suchverfahren
+2014
+
+kein Autor
+Interdisciplining Digital Humanities
+2014
+
+Haupt, Joachim
+Interface critique
+2016
+
+Schreiber, Dirk171393252
+Internet-Ökonomie : Grundlagen und Fallbeispiele der vernetzten Wirtschaft
+2016
+
+Cielen, Davy
+Introducing data science : big data, machine learning, and more, using Python tools
+2016
+
+Igual, Laura
+Introduction to data science : a Python approach to concepts, techniques and applications
+2017
+
+kein Autor
+Introduction to machine learning
+2014
+
+Müller, Andreas Christian
+Introduction to machine learning with Python : a guide for data scientists
+2016
+
+kein Autor
+Introduction to pattern recognition and machine learning
+2015
+
+Shen, Dong
+Iterative learning control for multi-agent systems coordination
+2017
+
+kein Autor
+JLIS - Vol. 4 n.2 (2013)
+2013
+
+kein Autor
+JLIS - Vol. 5 n.1 (2014)
+2014
+
+Gaber, Mohamed Medhat1018829210
+Journeys to data mining : experiences from 15 renowned researchers
+2012
+
+kein Autor
+Kernel learning algorithms for face recognition
+2014
+
+Yu, Shi
+Kernel-based data fusion for machine learning : methods and applications in bioinformatics and text mining
+2011
+
+kein Autor
+Knowledge design : incubating new knowledge forms/genres/spaces in the laboratory of the digital humanities ; keynote delivered at the Herrenhausen Conference "(Digital) Humanities Revisited - Challenges and Opportunities in the Digital Age"/ Jeffrey T. Schnapp
+2014
+
+Tomasi, Francesca
+L umanista digitale
+2010
+
+Tarsot-Gillery, Sylviane
+La recherche dans les institutions patrimoniales : sources matérielles et ressources numériques
+juillet 2016
+
+Steinhaeuser, Karsten
+Large-scale machine learning in the Earth sciences
+2017
+
+Steinhaeuser, Karsten
+Large-scale machine learning in the earth sciences
+2017
+
+White W., John
+Laying the Foundation
+2016
+
+Vogt, David
+Learning continuous human-robot interactions from human-human demonstrations
+2018
+
+Mulier, Filip
+Learning from data : concepts, theory, and methods
+2015
+
+Biba, Marenglen
+Learning structure and schemas from documents
+2011
+
+kein Autor
+Learning to rank for information retrieval and natural language processing
+2015
+
+Wang, Xizhao
+Learning with uncertainty
+2017
+
+Strübing, Jörg
+Leben nach Zahlen : Self-Tracking als Optimierungsprojekt?
+2016
+
+Hoppe, Ulrich142142174
+Lernen im Web 2.0 : Erfahrungen aus Berufsbildung und Studium
+2014
+
+Lenders, Winfried
+Linguistische Datenverarbeitung und neue Medien
+1989
+
+Siker, Jeffrey S.
+Liquid scripture : the Bible in a digital world
+2017
+
+kein Autor
+Literature in the digital age : an introduction
+2016
+
+Burger, Hermann
+Lokalbericht
+2016
+
+Borghoff, Uwe M.118121979
+Long-term preservation of digital documents : principles and practices ; with 67 figures and 32 tables
+2006
+
+kein Autor
+MATLAB deep learning : with machine learning, neural networks and artificial intelligence
+2017
+
+Paluszek, Michael
+MATLAB machine learning
+2017
+
+Sudmann, Andreas
+Machine Learning - Medien, Infrastrukturen und Technologien der Künstlichen Intelligenz
+2017
+
+ECML PKDD (2011 : Athen)
+Machine Learning and Knowledge Discovery in Databases : European Conference, ECML PKDD 2011, Athens, Greece, September 5 - 9, 2011; Proceedings
+20XX
+
+Raschka, Sebastian
+Machine Learning mit Python : das Praxis-Handbuch für Data Science, Predictive Analytics und Deep Learning
+2017
+
+Lorenzen, Knut
+Machine Learning mit Python und Scikit-learn und TensorFlow : das umfassende Praxis-Handbuch für Data Science, Deep Learning und Predictive Analytics
+2018
+
+Bashier, Eihab Bashier Mohammed1122443072
+Machine learning : algorithms and applications
+2017
+
+kein Autor
+Machine learning : hands-on for developers and technical professionals
+2015
+
+Alpaydın, Ethem
+Machine learning : the new AI
+2016
+
+ECML PKDD (2008 : Antwerpen)
+Machine learning and knowledge discovery in databases : European Conference, ECML PKDD 2008; Antwerp, Belgium, September 15 - 19, 2008, proceedings
+20XX
+
+ECML PKDD (2009 : Bled)
+Machine learning and knowledge discovery in databases : European Conference, ECML PKDD 2009; Bled, Slovenia, September 7 - 11, 2009, proceedings
+20XX
+
+ECML PKDD (2010 : Barcelona)
+Machine learning and knowledge discovery in databases : European Conference, ECML PKDD 2010 Barcelona, Spain, September 20 - 24, 2010; proceedings
+20XX
+
+ECML PKDD (2013 : Prag)
+Machine learning and knowledge discovery in databases : European conference ; proceedings
+20XX
+
+ECML PKDD (2016 : Riva del Garda)
+Machine learning and knowledge discovery in databases : European conference, ECML PKDD 2016, Riva del Garda, Italy, September 19-23, 2016 : proceedings
+2016
+
+ECML PKDD (2012 : Bristol)
+Machine learning and knowledge discovery in databases : European conference; proceedings
+20XX
+
+International Conference ML4CPS (2015 : Lemgo)
+Machine learning for cyber physical systems : selected papers from the International Conference ML4CPS 2015
+2016
+
+International Conference ML4CPS (2. : 2016 : Karlsruhe)
+Machine learning for cyber physical systems : selected papers from the International Conference ML4CPS 2016
+2017
+
+Massaron, Luca1104968622
+Machine learning for dummies
+2016
+
+kein Autor
+Machine learning in Python : essential techniques for predictive analysis
+2015
+
+Kleindeßner, Matthäus
+Machine learning in a setting of ordinal distance information
+2017
+
+MICCAI (20. : 2017 : Québec)
+Machine learning in medical imaging : 8th international workshop, MLMI 2017, held in conjunction with MICCAI 2017, Quebec City, QC, Canada, September 10, 2017 : proceedings
+2017
+
+Suthaharan, Shan
+Machine learning models and algorithms for big data classification : thinking with examples for effective learning
+2016
+
+kein Autor
+Machine learning projects for .Net developers : [build smarter applications by teaching them to learn from data]
+2015
+
+Katsaggelos, Aggelos Konstantinos
+Machine learning refined : foundations, algorithms, and applications
+2016
+
+Cunningham, Pádraig
+Machine learning techniques for multimedia : case studies on organization and retrieval ; with 20 tables
+2008
+
+Umeton, Renato
+Machine learning, optimization, and big data : Third International Conference, MOD 2017, Volterra, Italy, September 14-17, 2017 : revised selected papers
+2018
+
+kein Autor
+Macroanalysis : digital methods and literary history
+2013
+
+Bhamra, Tracy
+Making homes : ethnography and design
+2017
+
+Abrami, Giuseppe
+Managing and annotating historical multimodal corpora with the eHumanities desktop : An outline of the current state of the LOEWE project "Illustrations of Goethe's Faust"
+2015
+
+Rafferty, Pauline
+Managing digital cultural objects : analysis, discovery and retrieval
+2016
+
+Blankenberg, Ngaire
+Manual of digital museum planning
+2017
+
+Bay-Cheng, Sarah1079355448
+Mapping intermediality in performance
+2010
+
+Heun, Thomas1025611535
+Marke und digitale Medien : Der Wandel des Markenkonzepts im 21. Jahrhundert
+2014
+
+Heun, Thomas1025611535
+Marke und digitale Medien : der Wandel des Markenkonzepts im 21. Jahrhundert
+2014
+
+Klein, Andreas138352135
+Marketing- und Vertriebscontrolling : von Big Data über Pricing bis Social Media Controlling
+2014
+
+Mueller, John Paul
+Maschinelles Lernen mit Python und R für dummies
+2017
+
+kein Autor
+Mastering Azure analytics : architecting in the cloud with Azure Data Lake, HDInsight, and Spark
+2017
+
+Kamihigashi, Takashi
+Measuring social change using text data : a simple distributional approach
+July 5, 2017
+
+Kelleter, Frank
+Media of serial narrative
+2017
+
+kein Autor
+Mediatisierte Welten der Vergemeinschaftung : kommunikative Vernetzung und das Gemeinschaftsleben junger Menschen
+2014
+
+Wilhelmus, Liane
+Memoria fotografica : Italienbilder aus der kunsthistorischen Fotothek; Begleitheft zur Ausstellung im Universitätsmuseum Heidelberg, 14.11.2014 bis 24.1.2015
+2016
+
+Artun, Lale
+Memoria fotografica : Italienbilder aus der kunsthistorischen Fotothek; Begleitheft zur Ausstellung im Universitätsmuseum Heidelberg, 14.11.2014 bis 24.1.2015
+2014
+
+kein Autor
+Metaphors of mind : an eighteenth-century dictionary
+2015
+
+Wich, Yvonne
+Methode zur patentbasierten Identifikation von Technologieentwicklungspotenzialen
+2016
+
+kein Autor
+Metric learning
+2015
+
+Zighed, Djamel
+Mining Complex Data : ECML/PKDD 2007 Third International Workshop, MCD 2007, Warsaw, Poland, September 17-21, 2007, Revised Selected Papers
+2008
+
+MCD (3 : 2007 : Warschau)
+Mining complex data : ECML/PKDD 2007 Third International Workshop, MDC 2007, Warsaw, Poland, September 17 - 21, 2007; revised selected papers
+2008
+
+kein Autor
+Mobile social networking and computing : a multidisciplinary integrated perspective
+2014
+
+Schröder, Stefan Sven
+Modellentwicklung zum Benchmarking von Exzellenzclustern mittels Data Science
+2017
+
+Burr, Elisabeth
+Modellierung, Vernetzung, Visualisierung : die Digital Humanities als fächerübergreifendes Forschungsparadigma : DHd 2016 : Konferenzabstracts : Universität Leipzig, 7. bis 12. März 2016
+2016
+
+Maticzka, Daniel
+Modelling binding preferences of RNA-binding proteins
+2017
+
+kein Autor
+Multi-agent machine learning : a reinforcement approach
+2014
+
+kein Autor
+Multi-label dimensionality reduction
+2014
+
+Struß, Julia Maria
+Multilinguales aspektbasiertes Opinion Mining : Entwicklung eines ressourcenarmen Extraktionsverfahrens und Untersuchung von Nutzerperspektiven
+2017
+
+Gietz, Peter
+Musterverträge (AP 3.2) und technische Umsetzung, R 3.2.1 : Arbeitspaket 3 ; TextGrid - Vernetzte Forschungsumgebung in den eHumanities ; Laufzeit: Juni 2009 bis Mai 2012
+2011
+
+Gietz, Peter
+Musterverträge (AP 3.2) und technische Umsetzung, R 3.2.1 : Arbeitspaket 3 ; TextGrid - Vernetzte Forschungsumgebung in den eHumanities ; [Laufzeit: Juni 2009 bis Mai 2012]
+2011
+
+kein Autor
+My Life as a Night Elf Priest: An Anthropological Account of World of Warcraft
+2009
+
+IJCNLP (1 : 2004 : Sanya)
+Natural Language Processing - IJCNLP 2004 : First International Joint Conference, Hainan Island, China, March 22 - 24, 2004; revised selected papers
+2005
+
+Poteet, Stephen R
+Natural Language Processing and Text Mining
+2007
+
+Tsujii, Junichi
+Natural Language Processing – IJCNLP 2004 : First International Joint Conference, Hainan Island, China, March 22-24, 2004, Revised Selected Papers
+2005
+
+Wong, Kam-Fai
+Natural Language Processing – IJCNLP 2005 : Second International Joint Conference, Jeju Island, Korea, October 11-13, 2005, Proceedings
+2005
+
+IJCNLP (2 : 2005)
+Natural language processing : Second International Joint Conference, Jeju Island, Korea, October 11 - 13, 2005; proceedings
+2005
+
+Poteet, Steve R.
+Natural language processing and text mining
+2007
+
+kein Autor
+Network anomaly detection : a machine learning perspective
+2014
+
+Wolf, Christina
+Netz werken : das Archivportal-D und andere Portale als Chance für Archive und Nutzung : Beiträge zum 19. Archivwissenschaftlichen Kolloquium der Archivschule Marburg
+2015
+
+Schmitt, Marco137680392
+Neue Impulse für die soziologische Kommunikationstheorie : empirische Widerstände und theoretische Verknüpfungen
+2014
+
+Chen, Kay
+Neuromorphic cognitive systems : a learning and memory centered approach
+2017
+
+kein Autor
+New Publication Cultures in the Humanities: Exploring the Paradigm Shift
+2014
+
+kein Autor
+New lines : critical GIS and the trouble of the map
+2017
+
+Gniady, Tassie
+New technologies and Renaissance studies II ; [essays from the NTMRS panels at the Renaissance Society of America (RSA) annual meetings for the years 2004 - 2009]
+2014
+
+kein Autor
+Numerical algorithms : methods for computer vision, machine learning, and graphics
+2015
+
+Ehlers, Arne
+Object detection using feature mining in a distributed machine learning framework
+2017
+
+kein Autor
+On-line Recognition of Handwritten Mathematical Symbols
+2015-01-01
+
+ZKM | Zentrum für Kunst und Medien
+Open Codes : Leben in digitalen Welten, 20.10.2017 - 05.08.2018
+2017
+
+ZKM | Zentrum für Kunst und Medien
+Open Codes : living in digital worlds, 20/10/2017 - 05/08/2018
+2017
+
+kein Autor
+Opinion mining and sentiment analysis
+2008
+
+Wang, Yunsheng
+Opportunistic mobile social networks
+2014
+
+Li, Jianping
+Optimization Based Data Mining: Theory and Applications
+2011
+
+Hedberg, Hans
+Order and collapse : the lives of archives
+2016
+
+Lohmeier, Felix
+Organisationsmodell, R 3.1.1 : Arbeitspaket 3 ; TextGrid - Vernetzte Forschungsumgebung in den eHumanities ; Laufzeit: Juni 2009 bis Mai 2012
+2012
+
+Lohmeier, Felix
+Organisationsmodell, R 3.1.1 : Arbeitspaket 3 ; TextGrid - Vernetzte Forschungsumgebung in den eHumanities ; [Laufzeit: Juni 2009 bis Mai 2012]
+2012
+
+Lohmeier, Felix
+PR-Konzept (R 8.1) : Arbeitpaket 8 ; TextGrid - Vernetzte Forschungsumgebung in den eHumanities ; Berichtszeitraum: Juni 2009 bis Mai 2012
+2012
+
+Lohmeier, Felix
+PR-Konzept (R 8.1) : Arbeitpaket 8 ; TextGrid - Vernetzte Forschungsumgebung in den eHumanities ; [Berichtszeitraum: Juni 2009 bis Mai 2012]
+2012
+
+kein Autor
+Parables for the virtual : movement, affect, sensation
+2002
+
+PPSN (11 : 010 : Krakau)
+Parallel problem solving from nature - PPSN XI : 11th International Conference, Kraków, Poland, September 11 - 15, 2010; proceedings
+20XX
+
+Neunerdt, Melanie
+Part-of-speech tagging and detection of social media texts
+2016
+
+kein Autor
+Pastplay: Teaching and Learning History with Technology
+2014
+
+Kuznetsov, Sergei O.
+Pattern Recognition and Machine Intelligence : 4th International Conference, PReMI 2011, Moscow, Russia, June 27 - July 1, 2011. Proceedings
+2011
+
+PReMI (4 : 2011 : Moskau)
+Pattern recognition and machine intelligence : 4th International Conference, PReMI 2011, Moscow, Russia, June 27 - July 1, 2011; proceedings
+2011
+
+kein Autor
+Permutation design : buildings, texts, and contexts
+2015
+
+Völker, Johanna
+Perspectives on ontology learning
+2014
+
+Tarlow, Daniel
+Perturbations, optimization, and statistics
+2016
+
+Booth, Paul
+Playing fans : negotiating fandom and media in the digital age
+2015
+
+kein Autor
+Poetry's Afterlife: Verse in the Digital Age
+2010
+
+Pybus, Jennifer
+Politics of big data
+2016
+
+Geraghty, Lincoln
+Popular media cultures : fans, audiences and paratexts
+2015
+
+Balakrishnan, Karthik
+Practical text mining and statistical analysis for non-structured text data applications
+2012
+
+kein Autor
+Practical text mining with Perl
+2008
+
+Géron, Aurélien
+Praxiseinstieg Machine Learning mit Scikit-Learn und TensorFlow : Konzepte, Tools und Techniken für intelligente Systeme
+2018
+
+Droste, Johannes1046593471
+Praxishandbuch Rechtsfragen Social Media
+2014
+
+Dannhäuser, Ralph
+Praxishandbuch Social Media Recruiting : Experten Know-How
+2017
+
+Dannhäuser, Ralph13701001X
+Praxishandbuch Social Media Recruiting : Experten Know-How/Praxistipps/Rechtshinweise
+2015
+
+Dannhäuser, Ralph13701001X
+Praxishandbuch Social media recruiting : Experten-Know-How/Praxistipps/Rechtshinweise
+2015
+
+Bari, Anasse
+Predictive analytics for dummies
+2017
+
+Bari, Anasse
+Predictive analytics für Dummies
+2016
+
+Tok, Wee-Hyong
+Predictive analytics with Microsoft Azure Machine Learning
+2015
+
+Max Bramer
+Principles of Data Mining
+2016
+
+Bramer, Max A.
+Principles of data mining
+2016
+
+kein Autor
+Proceedings of the 2016 Joint Workshop of Fraunhofer IOSB and Institute for Anthropomatics, Vision and Fusion Laboratory
+2017-01-01
+
+kein Autor
+Proceedings. 27. Workshop Computational Intelligence, Dortmund, 23. - 24. November 2017
+2017-01-01
+
+Piotrowski, Swantje107581331X
+Professorenkataloge 2.0 : Ansätze und Perspektiven webbasierter Forschung in der gegenwärtigen Universitäts- und Wissenschaftsgeschichte
+2015
+
+Hilpisch, Yves
+Python for finance : [analyze big financial data]
+2015
+
+Raschka, Sebastian
+Python machine learning : machine learning and dep learning with Python, scikit-learn, and TensorFlow
+2017
+
+Raschka, Sebastian
+Python machine learning : unlock deeper insights into machine learning with this vital guide to cutting-edge predictive analytics
+2016
+
+kein Autor
+Python machine learning cookbook : 100 recipes that teach you how to perform various machine learning tasks in the real world
+2016
+
+Demant, Matthias
+Quality rating of silicon wafers - a pattern recognition approach = Qualitätsbewertung von Silizium Wafern - Herangehensweisen der Mustererkennung
+2016
+
+Okujeni, Akpona
+Quantifying urban land cover by means of machine learning and imaging spectrometer data at multiple spatial scales
+2016
+
+Wexelbaum, Rachel
+Queers online : LGBT digital practices in libraries, archives, and museums
+2015
+
+Kembellec, Gérald
+Reading and writing knowledge in scientific communities : digital humanities and knowledge construction
+2017
+
+Cronin, Beau
+Real-world machine learning
+2017
+
+kein Autor
+Reclaiming conversation : the power of talk in a digital age
+2015
+
+Küster, Marc Wilhelm
+Report on eHumanities research topics relevant in the computer science (R 4.3.1) : work package WP 6 ; TextGrid - networked research environment for the humanities ; [project term: June 2009 to May 2012]
+2010
+
+Küster, Marc Wilhelm
+Report on eHumanities research topics relevant in the computer science (R 4.3.1) : work package WP 6 ; TextGrid - networked research environment for the humanities ; project term: June 2009 to May 2012
+2010
+
+Vitt, Thorsten
+Report über die AP6-Entwicklung des vergangenen Jahres (R 6.0.3) : Arbeitspaket 6 ; TextGrid - Vernetzte Forschungsumgebung in den eHumanities  ; Laufzeit: Juni 2009 bis Mai 2012
+2012
+
+Vitt, Thorsten
+Report über die AP6-Entwicklung des vergangenen Jahres (R 6.0.3) : Arbeitspaket 6 ; TextGrid - Vernetzte Forschungsumgebung in den eHumanities  ; [Laufzeit: Juni 2009 bis Mai 2012]
+2012
+
+Vitt, Thorsten
+Report über die AP6-Entwicklung des vergangenen Jahres sowie den Stand der Planungen (R 6.0.2) : Arbeitspaket 6 ; TextGrid - Vernetzte Forschungsumgebung in den eHumanities ; Laufzeit: Juni 2009 bis Mai 2012
+2012
+
+Vitt, Thorsten
+Report über die AP6-Entwicklung des vergangenen Jahres sowie den Stand der Planungen (R 6.0.2) : Arbeitspaket 6 ; TextGrid - Vernetzte Forschungsumgebung in den eHumanities ; [Laufzeit: Juni 2009 bis Mai 2012]
+2012
+
+Mallick, Pradeep Kumar
+Research advances in the integration of big data and smart computing
+2016
+
+Griffin, Gabriele1088342345
+Research methods for creating and curating data in the Digital Humanities
+2016
+
+Barwick, Linda
+Research, records and responsibility : ten years of PARADISEC
+2015
+
+Thomaz, Andrea L.
+Robot Learning from Human Teachers
+2014
+
+Janabi-Sharifi, Farrokh
+Robot learning by visual observation
+2017
+
+Stieglitz, Stefan
+Sach- und Schlussbericht für das Verbundprojekt Diskursanalyse in Social Media (DaSOM)
+01.08.2015
+
+Schubert, Charlotte
+Schlussbericht "eAQUA: Portal und Methoden-Dissemination" : Juni 2011-Dezember 2013
+2014
+
+Müller, Gerfrid G. W.
+Schlussbericht zum Projekt 3D-Joins und Schriftmetrologie (Kurzbez. 3D-Joins) : Rekonstruktion dreidimensionaler Schriftträger (Keilschrifttafeln) mit dreidimensionaler Schrift für die Initiative Förderung von Forschungs- und Entwicklungsvorhaben aus dem Bereich der eHumanities : Schlussbericht
+2016?
+
+Gordon, Elizabeth Sarah Willson143843745
+Scholarly adventures in digital humanities : making the modernist archives publishing project
+2017
+
+kein Autor
+Scholars and personal computers : microcomputing in the humanities and social sciences
+1988
+
+Saif, Hassan
+Semantic sentiment analysis in social streams
+2017
+
+Wolfgruber, Marlene
+Sentiment Analyse mit lokalen Grammatiken : wissensbasierter Ansatz zur Extraktion von Sentiments in Hotelbewertungen
+2015
+
+Liu, Bing
+Sentiment analysis in social networks
+2017
+
+Allen, Rob1056009020
+Serialization in popular culture
+2014
+
+kein Autor
+Snobol programming for the humanities
+1985
+
+kein Autor
+Social Collaboration Workplace : das neue Intranet erfolgreich einführen
+2014
+
+Röhrs, Heinz-Peter1136735372
+Social Media : Potenziale, Trends, Chancen und Risiken
+2017
+
+Schildhauer, Thomas171168186
+Social Media Handbuch : Theorien, Methoden, Modelle und Praxis
+2015
+
+Pahrmann, Corina1011722798
+Social Media Marketing : Strategien für Twitter, Facebook & Co
+2014
+
+kein Autor
+Social Media Marketing im B2B : [Besonderheiten, Strategien, Tipps ; eine erfolgreiche Strategie entwickeln ; zielgruppenrelevanten Content erstellen ; Erfolge messen und optimieren]
+2014
+
+kein Autor
+Social Media Marketing und Recht : [für Facebook, Twitter, YouTube & Co ; Risiken erkennen & Abmahnungen vermeiden ; Checklisten, Mustertexte und aktuelle Beispiele]
+2014
+
+kein Autor
+Social Media für Führungskräfte : Behalten Sie das Steuer in der Hand
+2016
+
+Karabasz, Ralf
+Social Media im Unternehmen - Ruhm oder Ruin : Erfahrungslandkarte einer Expedition in die Social Media-Welt
+2014
+
+Leidner, Jochen L.
+Social informatics : SocInfo 2013 international Workshops QMC and HISTOINFORMATICS, Kyoto, Japan, November 25, 2013 ; revised selected papers
+2014
+
+Xie, Xing
+Social media processing : 6th National Conference, SMP 2017, Beijing, China, September 14-17, 2017 : proceedings
+2017
+
+kein Autor
+Social media security : leveraging social networking while mitigating risk
+2014
+
+Chen, Shyi-Ming
+Social networks : a framework of computational intelligence
+2014
+
+Kanduč, Tadej
+Social sciences via network analysis and computation
+2015
+
+kein Autor
+Social-Media-Guidelines : Betriebs- und Dienstvereinbarungen
+2014
+
+Bakardjieva, Maria
+Socialbots and their friends : digital media and the automation of sociality
+2017
+
+Laible, Stefan
+Spatio-temporal terrain classification for mapping and robot localization
+2016
+
+Phillips, Murray George
+Sport history in the digital era
+2015
+
+kein Autor
+Statistical reinforcement learning : modern machine learning approaches
+2015
+
+kein Autor
+Steampunk and nineteenth-century digital humanities : literary retrofuturisms, media archaeologies, alternate histories
+2017
+
+Coutts, Margaret
+Stepping away from the silos : strategic collaboration in digitisation
+2017
+
+kein Autor
+Strategische Unternehmensführung im Social Media Zeitalter : erfolgsentscheidende Kernkompetenzen und Werte
+2015
+
+Göttmann, Frank
+Studiolo : kooperative Forschungsumgebungen in den eHumanities
+2018
+
+김, 영민 (, Researcher in Korean history)
+Sŭngjŏngwŏn ilgi chŏngbohwa saŏp 15-yŏn : 2001-2015
+2015
+
+kein Autor
+Tales of literacy for the 21st century : the literary agenda
+2016
+
+Farris, Andrew L.
+Taming text : how to find, organize, and manipulate it
+2013
+
+Gentic, Tania
+Technology, literature, and digital culture in Latin America : mediatized sensibilities in a globalized era
+2016
+
+Tang, Na
+Temporal Information Processing Technology and Its Application
+2011
+
+Weiss, Sholom M.
+Text Mining : Predictive Methods for Analyzing Unstructured Information
+2005
+
+Berry, Michael W.
+Text Mining : applications and theory
+2010
+
+Stede, Manfred
+Text Mining in den Sozialwissenschaften : Grundlagen und Anwendungen zwischen qualitativer und quantitativer Diskursanalyse
+2016
+
+Halbritter, Max
+Text Mining in der Begleit- und Wirkungsforschung Schaufenster Elektromobilität : Implikationen für zukünftige Begleitforschungen : Schaufenster Elektromobiltät - eine Initiative der Bundesregierung
+April 2017
+
+Wittig, Thomas
+Text Mining: Wissensrohstoff Text : Konzepte, Algorithmen, Ergebnisse
+2017?
+
+Heyer, Gerhard
+Text Mining: Wissensrohstoff Text : Konzepte, Algorithmen, Ergebnisse
+2017
+
+Wittig, Thomas
+Text Mining: Wissensrohstoff Text : Konzepte, Algorithmen, Ergebnisse
+2008
+
+Wittig, Thomas
+Text Mining: Wissensrohstoff Text : Konzepte, Algorithmen, Ergebnisse
+2006
+
+Zhai, ChengXiang
+Text data management and analysis : a practical introduction to information retrieval and text mining
+2016
+
+Ignatow, Gabe
+Text mining : a guidebook for the social sciences
+2017
+
+Kogan, Jacob
+Text mining : applications and theory
+2010
+
+Sahami, Mehran
+Text mining : classification, clustering, and applications
+2009
+
+Heyer, Gerhard
+Text mining : from ontology learning to automated text processing applications ; Festschrift in honor of Gerhard Heyer
+2014
+
+Weiss, Sholom M.
+Text mining : predictive methods for analyzing unstructured information; [includes free downloadable software]
+2005
+
+Franke, Jürgen
+Text mining : theoretical aspects and applications; 27 tables
+2003
+
+NEMIS Launch Conference (1 : 2003 : Patras)
+Text mining and its applications : results of the NEMIS Launch Conference
+2004
+
+Zanasi, Alessandro
+Text mining and its applications to intelligence, CRM and knowledge management
+2005
+
+Chisholm, Andrew
+Text mining and visualization : case studies using open-source tools
+2016
+
+kein Autor
+Text mining application programming : [teaches developers how to build text mining applications to manage vast amounts of text and turn it into useful data; covers key topics such as information extraction, clustering, text categorization, summarization, and natural language query systems; shows step-by-step implementations of text mining solutions, and provides complete solutions for users to experiment with; includes a companion CD-ROM with all of the code and figures from the book]
+2006
+
+McNaught, John1046183753
+Text mining for biology and biomedicine
+2006
+
+Wiedemann, Gregor
+Text mining for qualitative data analysis in the social sciences : a study on democratic discourse in Germany
+2016
+
+Kwartler, Ted
+Text mining in practice with R
+2017
+
+kein Autor
+Text mining techniques for healthcare provider quality determination : methods for rank comparisons
+2010
+
+kein Autor
+Text mining with MATLAB®
+2013
+
+Silge, Julia
+Text mining with R : a tidy approach
+June 2017
+
+Silge, Julia
+Text mining with R : a tidy approach
+2017
+
+Abbate, Sandro
+Text und Konzeption im Content Marketing : alle wichtigen Grundlagen für Print, Web, Corporate Blogs und Social Media
+2017
+
+kein Autor
+TextGrid - Vernetzte Forschungsumgebung in den e-Humanities, Teilprojekt: Weiterentwicklung von TextGridRep und Integration mit Fedora : Abschlussbericht ; Berichtszeitraum: 01.06.2009 bis 31.05.2012
+ca. 2012
+
+Neuroth, Heike
+TextGrid - Vernetzte Forschungsumgebung in den eHumanities : Abschlussbericht, öffentliche Fassung ; Laufzeit: Juni 2009 - Mai 2012
+2012
+
+Neuroth, Heike
+TextGrid - Vernetzte Forschungsumgebung in den eHumanities : Abschlussbericht, öffentliche Fassung ; [Projekt: TextGrid, Teil des D-Grid Verbundes und der deutschen e-Science Initiative ; Laufzeit: Juni 2009 - Mai 2012]
+2012
+
+Pasquale, Frank
+The Black Box Society : the secret algorithms that control money and information
+2015
+
+kein Autor
+The Challenges of the Humanities, Past, Present, and Future
+2015
+
+kein Autor
+The Critique of Digital Capitalism: An Analysis of the Political Economy of Digital Culture and Technology
+2016
+
+kein Autor
+The Digital Condition : Class and Culture in the Information Network
+2011
+
+Numerico, Teresa
+The Digital Humanist
+2015
+
+Spitzer, Sarah
+The European newspaper market : social media use and new business models
+2015
+
+Ebrahimi, Touradj
+The JPEG 2000 suite
+2009
+
+Weststeijn, Thijs
+The Making of the Humanities, Volume III. The Modern Humanities
+2014
+
+Skouvig, Laura
+The Organization of Knowledge : Caught Between Global Structures and Local Meaning
+2017
+
+Burgess, Helen J.
+The Routledge research companion to digital medieval literature
+2018
+
+Galey, Alan
+The Shakespearean archive : experiments in new media from the Renaissance to postmodernity
+2014
+
+kein Autor
+The Work of Authorship
+2014
+
+Perron, Bernard
+The archives : post-cinema and video game between memory and the image of the present
+2014
+
+Musto, Ronald G.132133474
+The digital humanities : a primer for students and scholars
+2015
+
+Landow, George P.
+The digital word : text-based computing in the humanities
+1993
+
+Hastie, Trevor
+The elements of statistical learning : data mining, inference, and prediction
+2017
+
+Hastie, Trevor
+The elements of statistical learning : data mining, inference, and prediction
+2016
+
+Armitage, David128457384
+The history manifesto
+2014
+
+kein Autor
+The humanities computing yearbook : a comprehensive guide to software and other resources
+1.1988 - 2.1989/90(1991); damit Ersch. eingest.
+
+Domingos, Pedro
+The master algorithm : how the quest for the ultimate learning machine will remake our world
+2017
+
+Sanger, James
+The text mining handbook : advanced approaches in analyzing unstructured data
+2013
+
+Sanger, James
+The text mining handbook : advanced approaches in analyzing unstructured data
+2007
+
+Sanger, James
+The text mining handbook : advanced approaches in analyzing unstructured data
+2009
+
+Sanger, James
+The text mining handbook : advanced approaches in analyzing unstructured data
+2008
+
+Kirk, Matthew
+Thoughtful machine learning with Python : a test-driven approach
+2017
+
+김, 광재
+Tong Asia yŏksa charyo kongyu rŭl wihan hyŏmnyŏk pangan mosaek
+2015
+
+Sempere, José M.
+Topics in grammatical inference
+2016
+
+Geddes, Alistair
+Toward spatial humanities : historical GIS and spatial history
+2014
+
+kein Autor
+Traces of the Old, Uses of the New: The Emergence of Digital Literary Studies
+2015
+
+kein Autor
+Tweeting to power : the social media revolution in American politics
+2014
+
+Tiwari, Arvind
+Ubiquitous machine learning and its applications
+2017
+
+kein Autor
+Uncertainty reasoning for the semantic web
+20XX
+
+Berry, David Michael1047130173
+Understanding digital humanities
+2012
+
+Ben-David, Shai1129370623
+Understanding machine learning : from theory to algorithms
+2014
+
+Hamilton, Caitlin
+Understanding popular culture and world politics in the digital age
+2016
+
+Guan, Ling
+Unsupervised learning : a dynamic approach
+2014
+
+Storrer, Angelika
+Verbundprojekt: Korpus-basierte linguistische Recherche und Analyse mit Hilfe von Data-Mining (KobRA) : gemeinsamer Schlussbericht des Projektverbunds : Projektlaufzeiten: 01.09.2012 bis 31.08.2015
+24.02.2016
+
+Gao, Guangyu
+Video cataloguing : structure parsing and content extraction
+2016
+
+Leser, Ulf
+Virtual Liver - Abschlussbericht : Teilprojekt F2 : Förderzeitraum: 1.4.2010-31.3.2015
+31.10.2015
+
+Cao, Mei135711266
+Visual analytics and interactive technologies : data, text, and web mining applications
+2011
+
+Schneider-Kempf, Barbara
+Wasserzeichen - Schreiber - Provenienzen : neue Methoden der Erforschung und Erschließung von Kulturgut im digitalen Zeitalter : zwischen wissenschaftlicher Spezialdisziplin und "Catalog enrichment"
+2016
+
+Wissenschaftliches Kolloquium Schreiber- und Wasserzeichenforschung im Digitalen Zeitalter: zwischen Wissenschaftlicher Spezialdisziplin und Catalog Enrichment (2014 : Berlin)
+Wasserzeichen - Schreiber - Provenienzen : neue Methoden der Erforschung und Erschließung von Kulturgut im digitalen Zeitalter: zwischen wissenschaftlicher Spezialdisziplin und catalog enrichment
+2016
+
+Sreedhar, G.
+Web data mining and the development of knowledge-based decision support systems
+2017
+
+Funk, Stefan E.
+Wege zur Verknüpfung von eSciDoc und TextGrid (erstes Konzept) (R 1.3.2) : Arbeitspaket 1.3 ; TextGrid - Vernetzte Forschungsumgebung in den eHumanities ; Laufzeit: Juni 2009 bis Mai 2012
+2012
+
+Funk, Stefan E.
+Wege zur Verknüpfung von eSciDoc und TextGrid (erstes Konzept) (R 1.3.2) : Arbeitspaket 1.3 ; TextGrid - Vernetzte Forschungsumgebung in den eHumanities ; [Laufzeit: Juni 2009 bis Mai 2012]
+2012
+
+Finn, Ed
+What algorithms want : imagination in the age of computing
+2017
+
+kein Autor
+What makes you clever : the puzzle of intelligence
+2014
+
+Rohwedder, Uwe
+Wikipedia and Historical Scholarship
+2015
+
+Wissenschaftliche Vertiefungskonferenz HuC - Digital Future (2016 : Reutlingen)
+Wissenschaftliche Vertiefungskonferenz HuC - Digital Future : Informatik-Konferenz an der Hochschule Reutlingen, 16. November 2016
+2016
+
+Groebner, Valentin
+Wissenschaftssprache digital : die Zukunft von gestern
+2014
+
+Gordesch, Johannes
+Wissensvermittlung und Informationstechnologien in den Geistes- und Sozialwissenschaften : ein Gemeinschaftsprojekt der Universität Potsdam und der Universität des Saarlandes (Saarbrücken)
+1996
+
+kein Autor
+Zur Aktualität von Harrison White : Einführung in sein Werk
+2015
+
+Bachleitner, Norbert
+Zurück in die Zukunft : digitale Medien, historische Buchforschung und andere komparatistische Abenteuer : Festschrift für Norbert Bachleitner zum 60. Geburtstag
+2016
+
+kein Autor
+ePoetics - Korpuserschließung und Visualisierung deutschsprachiger Poetiken (1770-1960) für den "Algorithmic criticism" : Schlussbericht
+2016?
+
+kein Autor
+is for activism : dissent, resitance and rebellion in a digital culture
+2011
+
+kein Autor
+kein Titel
+kein Jahr
+
+Panetto, Hervé
+kein Titel
+2017
+
+ECML PKDD (2016 : Riva del Garda)
+kein Titel
+2016
+
+Keil, Reinhard
+studiolo : Kooperative Forschungsumgebungen in den eHumanities
+2017
+
+Oevel, Gudrun
+studiolo : Kooperative Forschungsumgebungen in den eHumanities
+2015
+
+Natterer, Michael
+Ähnlichkeit von Patenten : Entwicklung, empirische Validierung und ökonomische Anwendung eines textbasierten Ähnlichkeitsmaßes
+November 2016
+
+Natterer, Michael
+Ähnlichkeit von Patenten : Entwicklung, empirische Validierung und ökonomische Anwendung eines textbasierten Ähnlichkeitsmaßes
+2016

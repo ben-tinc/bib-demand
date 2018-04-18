@@ -1,0 +1,1495 @@
+(Open) linked data in Bibliotheken
+
+(OS)      從保存到創造: kaiqi shuwei renwen yanjiu: (OS)     開啟數位人文研究
+
+(OS)      數位人文研究的新視野: jichu yu xiangxiang: (OS)     基礎與想像
+
+(OS)      日本文化デジタル・ヒューマニティーズの現在
+
+20 Jahre Arbeitsgemeinschaft Geschichte und EDV
+
+3D research challenges in cultural heritage
+
+A - L
+
+A companion to digital humanities
+
+A companion to digital literary studies
+
+A history of the internet and the digital future
+
+A new companion to digital humanities
+
+A new republic of letters: memory and scholarship in the age of digital reproduction
+
+A roadmap in digital heritage preservation
+
+A semantic web primer
+
+A survey of digital humanities centers in the United 
+States
+
+Abstract machine: humanities GIS
+
+Adoption und Nutzung sozialer Online-Netzwerke: empirische Analysen zur Erklärung und Prognose des 
+individuellen Nutzerverhaltens
+
+Advanced data management: for SQL, NoSQL, Cloud and distributed databases
+
+Advanced Java EE development with WildFly: your one-stop guide to developing Java® EE 
+applications with the Eclipse IDE, Maven, and Wildfly® 8.1
+
+Advances in collective intelligence 2011
+
+Advancing digital humanities: research, methods, theories
+
+Aesthetic animism: digital poetry's ontological implications
+
+Ästhetische Impulse der Netzkommunikation: eine designwissenschaftliche Betrachtung 
+multimedialer Diskurse
+
+Affective computing
+
+Affective mapping: melancholia and the politics of modernism
+
+Against method
+
+Algorithmen kompakt und verständlich: Lösungsstrategien am Computer
+
+Algorithmic and high frequency trading
+
+Allgemeine Bildungs- und Wissenschaftsschranke
+
+Amongst digital humanists: an ethnographic study of digital knowledge production
+
+Analysis of ancient and medieval texts and manuscripts: digital approaches
+
+Anaphora resolution and text retrieval: a linguistic analysis of hypertexts
+
+Ancient worlds in digital culture
+
+Anonym im Internet mit Tor und Tails: nutze die Methoden von Snowden und hinterlasse keine 
+Spuren im Internet ; Tor-Browser-Bundle (TBB) und Tails installieren und nutzen
+
+Applied spatial modelling and planning
+
+Art practice in a digital culture
+
+Artificial intelligence: a modern approach
+
+Astrofotografie: Blick zum Himmel mit der digitalen Kamera
+
+Attributing authorship: an introduction
+
+Au pays de Numérix
+
+Aufwachsen in sozialen Netzwerken: Chancen und Gefahren von Netzgemeinschaften aus 
+medienpsychologischer und medienpädagogischer Sicht
+
+Augmented reality: an emerging technologies guide to AR
+
+Automated data collection with R: a practical guide to Web scraping and text mining
+
+Barrierefreie Informationstechnik: Anforderungen an benutzungsfreundliche Informations- 
+und Kommunikationssysteme
+
+Basiswissen Testautomatisierung: Konzepte, Methoden und Techniken
+
+Be-greifbare Interaktionen: der allgegenwärtige Computer: Touchscreens, 
+Wearables, Tangibles und Ubiquitous Computing
+
+Befunde, Theorie und Methodik
+
+Being digital
+
+Berliner Open Data-Strategie: organisatorische, rechtliche und technische Aspekte 
+offener Daten in Berlin ; Konzept, Pilotsystem und Handlungsempfehlungen
+
+Best practices in quantitative methods
+
+Beyond illustration: 2d and 3d digital technologies as tools for discovery 
+in archaeology
+
+Bibliografien mit LATEX
+
+Bibliothèques 2.0 à l'heure des médias sociaux
+
+Big Data 2.0 processing systems: a survey
+
+Big Data in der Praxis: Lösungen mit Hadoop, HBase und Hive ; Daten 
+speichern, aufbereiten, visualisieren ; [auf DVD: 18 fertige Beispielprojekte
+
+Big Data und Innere Sicherheit: Grundrechtseingriffe durch die computergestützte 
+Auswertung öffentlich zugänglicher Quellen im Internet zu Sicherheitszwecken
+
+Big data, little data, no data: scholarship in the networked world
+
+Big Data: Analysen zum digitalen Wandel von Wissen, Macht und 
+Ökonomie
+
+Big digital humanities: imagining a meeting place for the humanities and the 
+digital
+
+BigData mit JavaScript visualisieren: D3.js für die Darstellung großer Datenmengen einsetzen
+
+Brain gain: technology and the quest for digital wisdom
+
+Brief-Edition im digitalen Zeitalter
+
+Build awesome command-line applications in Ruby 2: control your computer, simplify your life
+
+Categorical statistics for communication research
+
+Chancen und Risiken der Arbeit im E-Business: eine arbeitswissenschaftliche Untersuchung von 
+Organisationsformen und Aufgabeninhalten an B2B-Arbeitsplätzen
+
+Character n-gram-based sentiment analysis
+
+Cloud Computing: eine wirtschaftsrechtliche Analyse mit besonderer 
+Berücksichtigung des Urheberrechts
+
+Collaborative annotation for reliable natural 
+language processing: technical and sociological aspects
+
+Collaborative filtering using data mining and analysis
+
+Collaborative research in the digital humanities: [this volume is dedicated to the work of Professor 
+Harold Short, who retired as director of the Centre for Computing in the
+
+Communication2win: Praxishandbuch für innovative Marketingkommunikation 
+im Zeitalter sozialer Netzwerke
+
+Comparative oriental manuscript studies: an introduction
+
+Complex copyright: mapping the information ecosystem
+
+Compression schemes for mining large datasets: a machine learning perspective
+
+Compromised data: from social media to big data
+
+Computation and the humanities: towards an oral history of digital humanities
+
+Computational intelligence in archaeology
+
+Computational semantics with functional programming
+
+Computer vision, imaging and computer graphics: theory and applications
+
+Computer visualization for the theatre: 3D modelling for designers
+
+Computerlinguistik und Sprachtechnologie: eine Einführung
+
+Computerlinguistik und Texttechnologie
+
+Computerlinguistische Methoden in Community-basierten 
+Anwendungen
+
+Computing action: a narratological approach
+
+Concepts in Context: Proceedings of the Cologne Conference on 
+Interoperability and Semantics in Knowledge Organization July 19th - 20th, 2010
+
+Configuring history: teaching the Harlem Renaissance through virtual 
+reality cityscapes
+
+Cong baocun dao chuangzao
+
+Content Management: Inhalt plus Zufriedenheit gleich Erfolg
+
+Copyrighting creativity: creative values, cultural heritage institutions and 
+systems of intellectual property
+
+Corporate memory: records and information management in the knowledge age
+
+Creative writing in the digital age: theory, practice, and pedagogy
+
+Critical gaming: interactive history and virtual heritage
+
+Critical theory and the digital
+
+Crossmedia innovations: texts, markets, institutions
+
+Crowdsourcing
+
+Crowdsourcing our cultural heritage
+
+Cultural mapping and the digital sphere: place and space
+
+Culture, heritage and representation: perspectives on visuality and the past
+
+Curating the digital: space for art and interaction
+
+D3.js in action
+
+Das "Virtuelle Archiv" des Deutschen Ordens: Beiträge einer internationalen Tagung im Staatsarchiv 
+Ludwigsburg am 11. und 12. April 2013
+
+Das digitale Archiv NRW in der Praxis: eine Softwarelösung zur digitalen Langzeitarchivierung
+
+Das Echo-Prinzip: wie Onlinekommunikation Politik verändert
+
+Das Geistige Eigentum in 50 Leitentscheidungen: 50 höchstrichterliche Urteile zum gewerblichen 
+Rechtsschutz und Urheberrecht mit Anregungen zur Vertiefung
+
+Das Netz 2012 - Jahresrückblick Netzpolitik: ACTA, GEMA, Facebook, Piraten, Google
+
+Das Sketchnote-Arbeitsbuch: fortgeschrittene Techniken zum Erstellen visueller 
+Notizen
+
+Das Sketchnote-Handbuch: der illustrierte Leitfaden zum Erstellen visueller 
+Notizen
+
+Das typografische Erbe
+
+Data literacy: a user's guide
+
+Data Mining
+
+Data mining
+
+Data mining: practical machine learning tools and techniques
+
+Data Science für Dummies: [auf einen Blick: aus großen Datenmengen Einsichten 
+ableiten und vermitteln und so einen Wettbewerbsvorsprung erlangen, Überblick
+
+Data Science mit Python für Dummies
+
+Data visualisation: a handbook for data driven design
+
+Data visualization toolkit: using JavaScript, rails, and postgres to present data 
+and geospatial information
+
+Data visualization with Python and JavaScript: scrape, clean, explore & transform your data
+
+Data visualization: principles and practice
+
+Datenbanken im Einsatz: Analyse, Modellbildung und Umsetzung
+
+Datenbanken und SQL: eine praxisorientierte Einführung mit Anwendungen in 
+Oracle, SQL-Server und MySQL
+
+Datenvisualisierung und Ästhetik: Johann Heinrich Lamberts Graph und William Hogarths 
+"Analysis of Beauty"
+
+Debates in the digital humanities
+
+Debates in the digital humanities 2016
+
+Deep maps and spatial narratives
+
+Defining digital humanities: a reader
+
+Der digitale Nachlass
+
+Der digitale Operationssaal
+
+Der programmierte Mensch: wie uns Internet und Smartphone manipulieren
+
+Design for the mind: seven psychological principles of persuasive design
+
+Designbasierte Didaktik (DbD): Lernumgebungen mit social media innovativ gestalten
+
+Designing culture: the technological imagination at work
+
+Dictionary of visual discourse: a dialectical lexicon of terms
+
+Die Berechnung der Welt: von der Weltformel zu Big Data
+
+Die digitale Bibliothek von Babel: über den Umgang mit Wissensressourcen im Web 2.0
+
+Die digitale Werknutzung nach dem griechischen und 
+deutschen Urheberrecht: unter Berücksichtigung der internationalen und 
+europäischen Entwicklungen
+
+Die Googleisierung der Informationssuche: Suchmaschinen zwischen Nutzung und Regulierung
+
+Die Kunst des SEO: [Strategie und Praxis erfolgreicher 
+Suchmaschinenoptimierung]
+
+Die Nutzung des Web 2.0 in Deutschland: Verbreitung, Determinanten und Auswirkungen
+
+Die Raummaschine: Raum und Perspektive im Computerspiel
+
+Die retrospektive Digitalisierung von Printpublikationen
+
+Die Telepolis: Urbanität im digitalen Zeitalter
+
+Die Überwacher: Prism, Google, Whistleblower
+
+Die Verbundenheit der Dinge: eine Kulturgeschichte der Netze und Netzwerke
+
+Die Vernetzung der Welt: ein Blick in unsere Zukunft
+
+Die vielen Wikipedias: Vielsprachigkeit als Zugang zu einer globalisierten 
+Online-Welt
+
+Digital archaeology: bridging method and theory
+
+Digital archetypes: adaptations of early temple architecture in South and 
+Southeast Asia
+
+Digital critical editions
+
+Digital cultures
+
+Digital curation in the digital humanities: preserving and promoting archival and special collections
+
+Digital curation of research data: experiences of a baseline study in Germany
+
+Digital design theory: readings from the field
+
+Digital diplomatics: the computer as a tool for the diplomatist?
+
+Digital ethics: research and Practice
+
+Digital game-based learning
+
+Digital history: a guide to gathering, preserving, and presenting the 
+past on the Web
+
+Digital humanitarians: how big data is changing the face of humanitarian 
+response
+
+Digital humanities
+
+Digital humanities 2012: conference abstracts ; University of Hamburg, 
+Germany, July 16 -22, 2012 ; [the 24. Joint International Conference of the
+
+Digital humanities and the study of intermediality in 
+comparative cultural studies
+
+Digital humanities in biblical, early Jewish and 
+early Christian studies
+
+Digital humanities in practice
+
+Digital humanities pedagogy: practices, principles and politics
+
+Digital humanities: current perspective, practices, and research
+
+Digital Humanities: eine Einführung
+
+Digital humanities: Grundlagen und Technologien für die Praxis
+
+Digital Humanities: Grundlagen und Technologien für die Praxis
+
+Digital humanities: knowledge and critique in a digital age
+
+Digital Humanities: Praktiken der Digitalisierung, der Dissemination und 
+der Selbstreflexivität
+
+Digital images for the information professional
+
+Digital libraries and archives: 8th Italian Research Conference ; revised selected papers
+
+Digital literacies in education: creative, multimodal and innovative practices
+
+Digital media: technological and social challenges of the 
+interactive world
+
+Digital modernism: making it new in new media
+
+Digital poetics: an open theory of design-research in architecture
+
+Digital research in the study of classical antiquity
+
+Digital scholarly editing: theories and practices
+
+Digital scholarly editing: theories, models and methods
+
+Digital speech processing using Matlab
+
+Digital technologies and the museum experience: handheld guides and other media
+
+Digital texts, translations, lexicons in a 
+multi-modular web application: methods and samples
+
+Digital_humanities
+
+Digitale Agenda 2013 - 2017: Netzpolitik im neuen Deutschen Bundestag
+
+Digitale Arbeitstechniken für Geistes- und 
+Kulturwissenschaften
+
+Digitale Archivierung - Wirtschaftlichkeit und 
+pragmatische Lösungen: Beiträge zur 9. Jahrestagung des Arbeitskreises 
+"Archivierung von Unterlagen aus digitalen Systemen" im Stadtarchiv Mannheim -
+
+Digitale Archivierung in der Praxis: 16. Tagung des Arbeitskreises "Archivierung von 
+Unterlagen aus Digitalen Systemen" [am 13. und 14. März 2012] und
+
+Digitale Archivierung: Grundlagen, Techniken, Vorgehen in Projekten
+
+Digitale Bildwissenschaft
+
+Digitale Editionsformen: zum Umgang mit der Überlieferung unter den 
+Bedingungen des Medienwandels
+
+Digitale Geisteswissenschaften
+
+Digitale Geschichtswissenschaft
+
+Digitale Körperinnenwelten: endoskopische 3D-Animationen zwischen Medizin und 
+Populärkultur
+
+Digitale Kommunikation
+
+Digitale Lexikographie: ein- und mehrsprachige elektronische Wörterbücher mit 
+Deutsch: aktuelle Entwicklungen und Analysen
+
+Digitale Moderne: die Modellwelten von Matthias Zimmermann
+
+Digitale Rekonstruktionen mittelalterlicher Bibliotheken
+
+Digitale Urkundenpräsentationen: Beiträge zum Workshop in München, 16. Juni 2010
+
+Digitales Wissen, Daten und Überwachung zur Einführung
+
+Distant reading
+
+Distant readings: topologies of German culture in the long nineteenth 
+century
+
+DIVSI-Studie zu Freiheit versus Regulierung im Internet: eine repräsentative Bevölkerungsbefragung des 
+Instituts für Demoskopie Allensbach (IfD) im Auftrag des Deutschen Instituts für
+
+DIVSI-U25-Studie: Kinder, Jugendliche und junge Erwachsene in der 
+digitalen Welt ; eine Grundlagenstudie des SINUS-Instituts Heidelberg im Auftrag
+
+DIY citizenship: critical making and social media
+
+Doing digital humanities: practice, training, research
+
+Dynamic network selection for optimized use of mobile 
+internet
+
+E-government: implementation, adoption and synthesis in developing 
+countries
+
+E-Learning im Lehralltag: Analyse der Adoption von E-Learning-Innovationen in 
+der Hochschullehre
+
+E-Learning im Unterricht: ein Leitfaden zum Einsatz von Lernplattformen in der 
+Schule
+
+E-Learning, E-Teaching und E-Assessment in der 
+Hochschullehre: eine Anleitung
+
+E-librarian service: user friendly semantic search in digital libraries
+
+E-Portfolios in der universitären Weiterbildung: Studierende im Spannungsfeld von Reflexivem Lernen 
+und Digital Career Identity
+
+E-Protest: neue soziale Bewegungen und Revolutionen
+
+E-tivities: der Schlüssel zu aktivem Online-Lernen
+
+Early modern studies after the digital turn
+
+Eat, cook, grow: mixing human-computer interactions with human-food 
+interactions
+
+Effective data visualization: the right chart for the right data
+
+Effective document and data management: unlocking corporate content
+
+Ein Bild sagt mehr als tausend Pixel?: Digitale Forschungsansätze in den Bild- und 
+Objektwissenschaften
+
+Einführung in die Arbeit mit Ontologien
+
+Einführung in Java: [Programmierung mit Java für Studium und Beruf ; 
+inkl. Übungsaufgaben mit ausführlichen Lösungen ; Sprachgrundlagen, JavaFX-GUIs,
+
+Einführung in LATEX: [unter Berücksichtigung von pdfLATEX, XELATEX und 
+LuaLATEX]
+
+Einstieg in XML: Grundlagen, Praxis, Referenz ; [für 
+Anwendungsentwicklung und E-Publishing ; Transformation, Formatierung,
+
+Electronic resources in the virtual learning environment: a guide for librarians
+
+Electronic text: investigations in method and theory
+
+Electronic Visualisation and the Arts: proceedings of EVA London 2010, BCS London, 5 
+Southampton Street, London, 5 - 7 July 2010
+
+Emotional design: why we love (or hate) everyday things
+
+Encyclopedia of social network analysis and mining
+
+Endangered languages and new technologies
+
+Engelbarts Traum: wie der Computer uns Lesen und Schreiben abnimmt
+
+Enterprise 2.0 - die digitale Revolution der 
+Unternehmenskultur: warum Personalmanager jetzt gefordert sind
+
+Entwicklungen im Web 2.0: Ergebnisse des III. Workshops zur Linguistischen 
+Internetforschung
+
+EVA Berlin 2014: elektronische Medien & Kunst, Kultur, Historie ; 
+Konferenzband ; 21. Berliner Veranstaltung der Internationalen EVA-Serie
+
+Evolution der Informationsinfrastruktur: Kooperation zwischen Bibliothek und Wissenschaft
+
+Evolving connectionist systems: the knowledge engineering approach
+
+eXist: [a noSQL document database and application platform]
+
+Exploring big historical data: the historian's macroscope
+
+Facebook im Kontext medialer Umbrüche: eine theoretische und empirische Annäherung
+
+Facing the future: European research infrastructures for the humanities 
+and social sciences
+
+Find it fast: extracting expert information from social networks, 
+big data, tweets, and more
+
+Follow me!: Erfolgreiches Social-Media-Marketing mit Facebook, 
+Twitter und Co. ; [von der Planung bis zum Monitoring und Reputation-Management
+
+Formalizing natural languages: the NooJ approach
+
+Forschungsumgebungen in den Digital Humanities: Nutzerbedarf, Wissenstransfer, Textualität
+
+From parchment to cyberspace: medieval literature in the digital age
+
+From text to political positions: text analysis across disciplines
+
+From text to txting: new media in the classroom
+
+Fun and software: exploring pleasure, paradox, and pain in computing
+
+Fundamentals of user-centered design: a practical approach
+
+Geographical information systems theory, applications 
+and management: First International Conference, GISTAM 2015, 
+Barcelona, Spain, April 28-30, 2015, revised selected papers
+
+Geomediale Fiktionen: Map Mashups - zur Renaissance der literarischen 
+Kartographie in der digitalen Literatur
+
+Georeferencing: the geographic associations of information
+
+Geschichte digital: historische Welten neu vermessen
+
+Geschichte lernen im digitalen Wandel
+
+Gesundheit 2.0: das ePatienten-Handbuch
+
+GIS research methods: incorporating spatial perspectives
+
+Git: dezentrale Versionsverwaltung im Team : Grundlagen 
+und Workflows
+
+Google and the culture of search
+
+Google and the digital divide: the bias of online knowledge
+
+Grafik und Gestaltung: das umfassende Handbuch
+
+Graph data modeling for NoSQL and SQL: visualize structure and meaning
+
+Graph databases: [new opportunities for connected data]
+
+Graphesis: visual forms of knowledge production
+
+Grundeinkommen statt Urheberrecht?: Zum kreativen Schaffen in der digitalen Welt
+
+Grundkurs digitale Illustration: Schritt für Schritt zur perfekten Zeichnung ; 
+[Grundlagen und Praxis verständlich erklärt ; Zeichnen mit Photoshop und
+
+Grundkurs Grafik und Gestaltung: [für Ausbildung und Praxis ; die Grundlagen guter 
+Gestaltung auf den Punkt gebracht ; Layout, Schrift, Farbe und Bilder in Print
+
+Grundkurs Informatik: Grundlagen und Konzepte für die erfolgreiche 
+IT-Praxis - eine umfassende, praxisorientierte Einführung
+
+Grundkurs JAVA: von den Grundlagen bis zu Datenbank- und Netzanwendungen
+
+Grundkurs Typografie und Layout: [für Ausbildung und Praxis ; praktische Tipps für 
+Ihre Gestaltung ; Schriftwahl, Seitengestaltung, Gesamtkomposition ; Typografie
+
+Grundlagen, Editor, Makros
+
+Grundlagen, Graphical User Interfaces, 
+Informationsvisualisierung
+
+Guide to digital resources for the humanities
+
+Hacking the academy: new approaches to scholarship and teaching from 
+digital humanities
+
+Hadoop: zuverlässige, verteilte und skalierbare 
+Big-Data-Anwendungen
+
+Handbook of digital politics
+
+Handbook of metadata, semantics and ontologies: A to <A>
+
+Handbook of virtual environments: design, implementation, and applications
+
+Handbook on ontologies
+
+Handbuch der Künstlichen Intelligenz
+
+Handbuch Forschungsdatenmanagement
+
+Handbuch Hochschullehre Digital: Leitfaden für eine moderne und mediengerechte Lehre
+
+Handbuch Internet-Suchmaschinen
+
+Handbuch Internetrecherche: Personen, Firmen, Verantwortlichkeiten für Webseiten
+
+Handbuch Online-PR: strategische Kommunikation in Internet und Social Web
+
+Handbuch zum Testen von Web- und Mobile-Apps: Testverfahren, Werkzeuge, Praxistipps
+
+Heritage and digital humanities: how should training practices evolve? ; [the 
+Symposium Heritage and Digital Humanities, organized by the LabexArtsH2H (Paris
+
+Hermeneutica: computer-assisted interpretation in the Humanities
+
+Historische Geographie und digital humanities: eine Fallstudie zum spätbyzantinischen und 
+osmanischen Makedonien
+
+historyblogosphere: Bloggen in den Geschichtswissenschaften
+
+How the page matters
+
+How to do linguistics with R: data exploration and statistical analysis
+
+How to manage data and knowledge related to 
+interpretative digital 3D reconstructions of cultural heritage
+
+How we think: digital media and contemporary technogenesis
+
+HTML5 und CSS3: das umfassende Handbuch ; [moderne Webseiten 
+programmieren und gestalten ; alle neuen Features von HTML5, CSS3 und JavaScript
+
+Humanitats a la xarxa: món medieval
+
+Humanities computing
+
+Identität und virtuelle Identität natürlicher 
+Personen im Internet
+
+Identity-Management und E-Portfolios
+
+Image-based visualization: interactive multidimensional data exploration
+
+Images numériques?: Leurs effets sur le cinéma et les autres arts
+
+Indexing and retrieval of non-text information
+
+Indexing: from thesauri to the semantic web
+
+Information and the modern corporation
+
+Information in e-motion: proceedings ; BOBCATSSS Amsterdam 2012, 20th 
+International Conference on Information Science, 23 - 25 January 2012
+
+Information literacy in enterprises
+
+Information literacy in the digital age: an evidence-based approach
+
+Information und Wissen: global, sozial und frei?: Proceedings des 12. Internationalen Symposiums für 
+Informationswissenschaft (ISI 2011) ; Hildesheim, 9. - 11. März 2011
+
+Informationsdesign von Bildungsportalen: Struktur und Aufbau netzbasierter Bildungsressourcen
+
+Informelle Wissenschaftskommunikation und Social Media
+
+Innovationspreis 2012 - Analyse von 
+Recommendersystemen in Deutschland: Literaturstudie
+
+Insight into fuzzy modeling
+
+Integrating 3D modeling, photogrammetry and design
+
+Intellectual property strategy
+
+Interactive data visualization for the web: [an introduction to designing with D3]
+
+Interactive digital narrative: history, theory, and practice
+
+Interactive storytelling: 4th International Conference on Interactive Digital 
+Storytelling, ICIDS 2011, Vancouver, Canada, November 28 - December 1, 2011 ;
+
+Interaktive Systeme
+
+Interdisciplining digital humanities: boundary work in an emerging field
+
+Interfaces of performance
+
+Internationalität und Interdisziplinarität der 
+Editionswissenschaft
+
+Internet Arabic
+
+Introduction to text visualization
+
+Inverted classroom and beyond: Lehren und Lernen im 21. Jahrhundert
+
+IT-Sicherheit: Konzepte, Verfahren, Protokolle
+
+Japanese sentence processing: [papers of the International Symposium on Japanese 
+Sentence Processing, held at Duke University in 1991]
+
+Java als erste Programmiersprache: ein professioneller Einstieg in die 
+Objektorientierung mit Java ; [JAVA 7]
+
+Java lernen in virtuellen Teams: Kompensation defizitärer Rollen durch Simulation
+
+Java: Anwendungen programmieren: von der GUI-Programmierung bis zur Datenbank-Anbindung
+
+Java: core concepts and applications
+
+Kids get coding: a beginner's guide to our digital world
+
+Knoten und Kanten 2.0: soziale Netzwerkanalyse in Medienforschung und 
+Kulturanthropologie
+
+Knowledge management in healthcare
+
+Knowledge seeker: ontology modelling for information search and 
+management ; a compendium
+
+Kodikologie und Paläographie im digitalen Zeitalter
+
+Kollaboratives Wissensmanagement in Unternehmen: Indikatoren für Erfolg und Akzeptanz am Beispiel von 
+Wikis
+
+KOMA-Script: eine Sammlung von Klassen und Paketen für LATEX 2 
+epsilon ; Anleitung zu Version 3.13
+
+Kompetenzentwicklung im Netz: new blended learning mit Web 2.0
+
+Komplexe Software-Einführungsprozesse gestalten: Grundlagen und Methoden ; am Beispiel eines 
+Campus-Management-Systems
+
+Konstruktionstätigkeit mit digitalen Medien: eine qualitative Studie als Beitrag zur Medienbildung
+
+Konstruktivistisches Lernen mit Moodle: praktische Einsatzmöglichkeiten in Bildungsinstitutionen
+
+Konsumieren, partizipieren und produzieren im Web 2.0: ein sozial-kognitives Modell zur Erklärung der 
+Nutzungsaktivität
+
+Konzeption einer kontextbasierenden Wissensumgebung 
+für die digitale Fabrik
+
+Kultur der Digitalität
+
+Kultur und Informatik: Aus der Vergangenheit in die 
+Zukunft
+
+Kulturmanagement und Social Media: neue interdisziplinäre Perspektiven auf eine 
+User-generated Culture im Kulturbetrieb
+
+L' histoire contemporaine à l'ère numérique
+
+La conception des documents pour le Web: essai
+
+La révolution du livre numérique: état des lieux, débats, enjeux
+
+La visualisation des données en histoire
+
+Langzeitarchivierung von Forschungsdaten: eine Bestandsaufnahme
+
+Leitfaden zum Forschungsdaten-Management: Handreichungen aus dem WissGrid-Projekt
+
+Les livres dans l'univers numérique
+
+Linked data and user interaction: the road ahead
+
+Linked data management
+
+Linkography: unfolding the design process
+
+Linux-Kommandoreferenz: Shell-Befehle von A bis Z ; [über 450 wichtige 
+Linux-Befehle immer griffbereit ; schnell thematisch oder alphabetisch
+
+Linux-Server: das umfassende Handbuch
+
+Literary computing and literary criticism: theoretical and practical essays on theme and rhetoric
+
+Literary education and digital learning: methods and technologies for humanities studies
+
+Literary gaming
+
+Literary mapping in the digital age
+
+Literatur und Digitalisierung
+
+M - R
+
+Macroanalysis: digital methods and literary history
+
+Managing image collections: a practical guide
+
+Managing information systems: ten essential topics
+
+Managing knowledge networks
+
+Mapping space, sense, and movement in Florence: historical GIS and the early modern city
+
+Media boundaries and conceptual modelling: between texts and maps
+
+Medienbildungsprozesse Erwachsener im Umgang mit 
+sozialen Online-Netzwerken
+
+Medienkonvergenz - transdisziplinär
+
+Mehrwerte des kollaborativen Wissensmanagements in 
+der Hochschullehre: Integration asynchroner netzwerkbasierter Szenarien 
+des CSCL in der Ausbildung der Informationswissenschaft im Rahmen des K3-Projekts
+
+Memes in digital culture
+
+Memory machines: the evolution of hypertext
+
+Mensch-Maschine-Interaktion
+
+Metadata for digital resources: implementation, systems design and interoperability
+
+Methoden wissensbasierter Systeme: Grundlagen, Algorithmen, Anwendungen
+
+Mining text data
+
+Mittelalter Computer Spiele: zur Darstellung und Modellierung von Geschichte im 
+populären Computerspiel
+
+Mobile Apps: Rechtsfragen und rechtliche Rahmenbedingungen
+
+Mobile interfaces in public spaces: locational privacy, control, and urban sociability
+
+Mobile server platform: architectures and protocols for future M2M ecosystems
+
+Mobiles Lernen in der Praxis: Handys als Lernmedium im Unterricht
+
+Mobility data: modeling, management, and understanding
+
+Modern methods for musicology: prospects, proposals, and realities
+
+MongoDB in action
+
+Moodle im Fremdsprachenunterricht: Blended Learning als innovativer didaktischer Ansatz 
+oder pädagogische Eintagsfliege?
+
+Multimodale Kommunikation im Social Web: Forschungsansätze und Analysen zu Text-Bild-Relationen
+
+Multiplayer: the social aspects of digital gaming
+
+Museum informatics: people, information, and technology in museums
+
+Museums in a digital age
+
+Museums in a digital culture: how art and heritage become meaningful
+
+Museums in the new mediascape: transmedia, participation, ethics
+
+Named entities for computational linguistics
+
+Natural language processing and computational linguistics
+
+Natural language processing with Python: [analyzing text with the natural language toolkit]
+
+Natural language understanding in a semantic web context
+
+Neo4j in action
+
+Nerds, Geeks und Piraten: digital natives in Kultur und Politik
+
+Net smart: how to thrive online
+
+Neue Entwicklungen in der Web-Suche
+
+Neues Erbe: Aspekte, Perspektiven und Konsequenzen der digitalen 
+Überlieferung
+
+New challenges for data design
+
+New heritage: new media and cultural heritage
+
+New methods in historical corpora
+
+New publication cultures in the humanities: exploring the paradigm shift
+
+New trends of research in ontologies and lexical 
+resources: ideas, projects systems
+
+Nihon bunka dejitaru hyūmanitīzu no genzai
+
+NoSQL and SQL data modeling: bringing together data, semantics, and software
+
+NoSQL: Einstieg in die Welt nichtrelationaler 
+Web-2.0-Datenbanken ; [neu: Jetzt mit Kapiteln zu OrientDB und Membase]
+
+Numérisation du patrimoine: quelles médiations? Quels accès? Quelles cultures?
+
+Objectivity
+
+Online communities and social computing: 4th international conference ; proceedings
+
+Online credibility and digital ethos: evaluating computer-mediated communication
+
+Online-Diskurse: Theorien und Methoden transmedialer 
+Online-Diskursforschung
+
+Ontologien zur konzeptuellen Modellierung der 
+Semantik von XML
+
+Ontologien: Konzepte, Technologien und Anwendungen
+
+Ontology based query expansion: retrieval support for the domain of educational research
+
+Ontology engineering with ontology design patterns: foundations and applications
+
+Ontology on demand: vollautomatische Ontologieerstellung aus deutschen 
+Texten mithilfe moderner Textmining-Prozesse
+
+Open access
+
+Open access and digital libraries: social science libraries in action
+
+Open access and the future of scholarly communication: policy and infrastructure
+
+Open access and the humanities: contexts, controversies and the future
+
+Open Access: der offene Zugang zu wissenschaftlichen Informationen 
+und die ökonomische Bedeutung urheberrechtlicher Ausschlussmacht für die
+
+Open initiatives - Offenheit in der digitalen Welt 
+und Wissenschaft
+
+Open Science in der Soziologie: eine interdisziplinäre Bestandsaufnahme zur offenen 
+Wissenschaft und eine Untersuchung ihrer Verbreitung in der Soziologie
+
+Open Source im öffentlichen Sektor: flexibler, 
+sicherer, günstiger: was der öffentliche Sektor von dem Zukunftstrend 
+lernen kann
+
+Open standards and the digital age: history, ideology, and networks
+
+Oral history and digital humanities: voice, access, and engagement
+
+Paradata and transparency in virtual heritage
+
+Parametergesteuerte Programme, Programme und Makros 
+zur Satzherstellung, Register
+
+Pastplay: teaching and learning history with technology
+
+Patternbasiertes User-Interface-Design für 
+multimodale Interaktion: Identifikation und Validierung von Patterns auf Basis 
+einer Analyse der Forschungsliteratur und explorativer Benutzertests an
+
+Performing digital: multiple perspectives on a living archive
+
+Persönliches Publizieren im Web 2.0: zur Herausbildung dynamischer Öffentlichkeitssphären 
+und publizistischer Vielfalt
+
+Personal Learning Environments in der Hochschullehre
+
+Personalisiertes E-Learning: eine explorative Untersuchung zum Einfluss von 
+Persönlichkeitsmerkmalen nach J. P. Golden auf das Lernverhalten in einer
+
+PHP and MySQL web development
+
+Playing with the past: digital games and the simulation of history
+
+Practical object-oriented design in Ruby: an agile primer
+
+Präliminarien einer Korpusgrammatik
+
+Präsentationen mit LATEX
+
+Praxishandbuch Open Access
+
+Praxishandbuch Rechtsfragen Social Media
+
+Praxiswissen Responsive Webdesign: [reaktionsfähige Websites für alle Geräte ; 
+Strategien, Konzeption, Umsetzung ; mit vielen Beispielen aus der Praxis]
+
+Presenting data: how to communicate your message effectively
+
+Principles of e-learning systems engineering
+
+Print CSS: das CSS paged media Modul ; Grundlagen und Referenz
+
+Privacy: a short history
+
+Privatheit im digitalen Zeitalter
+
+Pro Apache Hadoop: [analyze large volumes of data in amazingly short 
+wall-clock intervals]
+
+Programmieren lernen mit Java: [vom ersten Programm bis zur fertigen Anwendung ; mit 
+vielen Beispielen und Übungsaufgaben ; inkl. Objektorientierung, WindowBuilder,
+
+Programming collective intelligence: building smart Web 2.0 applications
+
+Programming Ruby 1.9 & 2.0: the pragmatic programmers' guide ; [for Ruby 1.9 and 
+Ruby 2.0]
+
+Programming: a primer: coding for beginners
+
+Publishing and using cultural heritage linked data on 
+the semantic Web
+
+Python GUI programming cookbook: over 80 object-oriented recipes to help you create 
+mind-blowing GUIs in Python
+
+Radiant textuality: literature after the World Wide Web
+
+Räume des Medialen: zum spatial turn in Kulturwissenschaften und 
+Medientheorien
+
+Raspberry Pi: das umfassende Handbuch
+
+Raw data: infographic designers' sketchbooks
+
+Reading machines: toward an algorithmic criticism
+
+Reading modernism with machines: digital humanities and modernist literature
+
+Reading writing interfaces: from the digital to the bookbound
+
+Recoding the museum: digital heritage and the technologies of change
+
+Reguläre-Ausdrücke-Kochbuch: [detaillierte Lösungen für acht Programmiersprachen ; 
+mit Einstiegs-Tutorial]
+
+RELAX NG: [a simpler schema language for XML]
+
+Research data management
+
+Research methods for creating and curating data in 
+the digital humanities
+
+Responsive webdesign: anpassungsfähige Websites programmieren und gestalten 
+; [Grundlagen, Strategien und inspirierende Praxisbeispiele ; Layout,
+
+Retooling the humanities: the culture of research in Canadian universities
+
+Revisualizing visual culture
+
+Rhetoric and the digital humanities
+
+Roberto Busa, S.J., and the emergence of humanities 
+computing: the priest and the punched cards
+
+Ruby under a microscope: an illustrated guide to Ruby internals
+
+S - Z
+
+Schools and schooling in the digital age: a critical analysis
+
+Schreiben digital: wie das Internet unsere Alltagskommunikation verändert
+
+Schrödinger lernt HTML5, CSS3 & JavaScript: das etwas andere Fachbuch ; [schau dem WWW gründlich 
+unter die Haube ; HTML5 und CSS3 für alle Sinne ; wappne dich mit Ajax und
+
+Security for web developers: using JavaScript, HTML, and CSS
+
+Selbstgesteuertes und kooperatives Lernen mit 
+Vorlesungsaufzeichnungen: das Lernszenario VideoLern ; eine 
+Design-Based-Research-Studie
+
+Selbstständige Medienschaffende in der 
+Netzwerkgesellschaft
+
+Semantic information processing
+
+Semantic web for the working ontologist: effective modeling in RDFS and OWL
+
+Share this: the social media handbook for PR professionals
+
+Shuwei renwen yanjiu de xin shiye
+
+Sicherung der Nachhaltigkeit von E-Learning-Angeboten 
+an Hochschulen
+
+Sie kennen dich! Sie haben dich! Sie steuern dich!: die wahre Macht der Datensammler
+
+Sie wissen alles: wie intelligente Maschinen in unser Leben eindringen 
+und warum wir für unsere Freiheit kämpfen müssen
+
+SMS, WhatsApp & Co.: gattungsanalytische, kontrastive und 
+variationslinguistische Perspektiven zur Analyse mobiler Kommunikation
+
+Social Media für die Verlagspraxis: Grundlagen - Marketing und Vertrieb - Presse- und 
+Öffentlichkeitsarbeit - Lektorat und Produktmanagement
+
+Social Media im Kulturmanagement: Grundlagen. Fallbeispiele. Geschäftsmodelle. Studien.
+
+Social media tools and platforms in learning environments
+
+Social media: a critical introduction
+
+Social Media: eine Herausforderung für Bibliotheken, Politik, 
+Wirtschaft und Gesellschaft
+
+Social media: Theorie und Praxis digitaler Sozialität
+
+Social Software in der Hochschullehre: Voraussetzungen und Potentiale für die Gestaltung 
+kooperativer Lernarrangements in der universitären Praxis
+
+Social-Media-Handbuch: Theorien, Methoden, Modelle und Praxis
+
+Social-Media-Marketing für den Kunstmarkt: mit Blogs, Podcasts, Twitter & Co neue 
+Kommunikationswege gehen ; ein Leitfaden für Museen, Galerien, Kunstvereine und
+
+Spatial data mining: theory and application
+
+Spatial mapping in virtuellen Umgebungen: Relevanz räumlicher Informationen für die User ; 
+Experience und Aufgabenleistung
+
+SpecLab: digital aesthetics and projects in speculative computing
+
+Speech, morphology and syntax
+
+Standards, Neuentwicklungen und Erfahrungen aus der 
+Praxis zur digitalen Archivierung: 17. Tagung des Arbeitskreises "Archivierung von 
+Unterlagen aus digitalen Systemen" am 13. und 14. März 2013 in Dresden
+
+Statistical data analytics: foundations for data mining, informatics, and 
+knowledge discovery
+
+Steampunk and nineteenth-century digital humanities: literary retrofuturisms, media archaeologies, 
+alternate histories
+
+Strategisches IT-Management: in Privatwirtschaft und Verwaltung
+
+Suchbilder: visuelle Kultur zwischen Algorithmen und Archiven
+
+Suchmaschinen
+
+Suchmaschinen als Gatekeeper in der öffentlichen 
+Kommunikation: rechtliche Anforderungen an Zugangsoffenheit und 
+Transparenz bei Suchmaschinen im WWW
+
+Suchmaschinen zwischen Technik und Gesellschaft
+
+Suchmaschinen: neue Herausforderungen für die 
+Medienpolitik: [Konferenz "Suchmaschinen - Neue Herausforderungen 
+für die Medienpolitik" im Mai 2004 in Berlin]
+
+Suchmaschinenoptimiert schreiben
+
+Suchmaschinenoptimierung & usability: Website-Ranking und Nutzerfreundlichkeit verbessern ; 
+[SEO: so verbessern Sie Ihr Suchmaschinenranking bei Google, Bing & Co. ;
+
+Supporting digital humanities for knowledge 
+acquisition in modern libraries
+
+Switching codes: thinking through digital technology in the humanities 
+and the arts
+
+Tagging, rating, posting: studying forms of user contribution for web-based 
+information management and information retrieval
+
+Taming text: how to find, organize, and manipulate it
+
+Teaching digital natives: partnering for real learning
+
+Teaching history in the digital age
+
+Technobiophilia: nature and cyberspace
+
+Text and genre in reconstruction: effects of digitalization on ideas, behaviours, 
+products and institutions
+
+Text as ride: electronic literature and new media art
+
+Text comparison and digital creativity: the production of presence and meaning in digital 
+text scholarship
+
+Text data management and analysis: a practical introduction to information retrieval and 
+text mining
+
+Text editing, print and the digital world
+
+Text genres and registers: the computation of 
+linguistic features
+
+Text mining and visualization: case studies using open-source tools
+
+Text mining for qualitative data analysis in the 
+social sciences: a study on democratic discourse in Germany
+
+Text Mining in den Sozialwissenschaften: Grundlagen und Anwendungen zwischen qualitativer und 
+quantitativer Diskursanalyse
+
+Text mining: from ontology learning to automated text processing 
+applications ; Festschrift in honor of Gerhard Heyer
+
+Text processing with Ruby: extract value from the data that surrounds you
+
+Textbegriffe und Recodierung
+
+Textgenese und digitales Edieren: Wolfgang Koeppens "Jugend" im Kontext der 
+Editionsphilologie
+
+Textmaschinen - kinetische Poesie - interaktive 
+Installation: zum Verstehen von Kunst in digitalen Medien
+
+The American literature scholar in the digital age
+
+The big humanities: digital humanities/digital laboratories
+
+The Cambridge companion to textual scholarship
+
+The copyright book: a practical guide
+
+The digital arts and humanities: neogeography, social media and big data integrations 
+and applications
+
+The digital divide: [arguments for and against Facebook, Google, texting, 
+and the age of social networking]
+
+The Digital Humanities and Islamic & Middle East Studies
+
+The digital humanities: a primer for students and scholars
+
+The emergence of the digital humanities
+
+The evolution of type: a graphic guide to 100 landmark typefaces ; examining 
+letters from metal type to open type
+
+The fluid text: a theory of revision and editing for book and screen
+
+The game culture reader
+
+The human element of big data: issues, analytics, and performance
+
+The iconic page in manuscript, print, and digital culture
+
+The internet unconscious: on the subject of electronic literature
+
+The literary text in the digital age
+
+The logic of scientific discovery
+
+The Mobile media reader
+
+The Oxford handbook of affective computing
+
+The Oxford handbook of interdisciplinarity
+
+The parent app: understanding families in the digital age
+
+The plugged-in professor: tips and techniques for teaching with social media
+
+The Ruby way
+
+The silent revolution: how digitalization transforms knowledge, work, 
+journalism and politics without making too much noise
+
+The structure of scientific revolutions
+
+The technical image: a history of styles in scientific imagery
+
+The virtual representation of the past
+
+The visual imperative: creating a visual culture of data discovery
+
+The war on learning: gaining ground in the digital university
+
+The web as corpus: theory and practice
+
+Theorien des Internet zur Einführung
+
+Thesen zur Netzpolitik: ein Überblick
+
+Tika in action
+
+Top-Rankings bei Google und Co.: [Schritt für Schritt zum besseren Ranking ; 
+SEO-Analyse, Onsite- und Offsite-Optimierung ; Tools, Tricks, Erfolgskontrolle ;
+
+Toward spatial humanities: historical GIS and spatial history
+
+Towards a semantic web: connecting knowledge in academic research
+
+Towards a theoretical framework for analyzing complex 
+linguistic networks
+
+Transferred illusions: digital technology and the forms of print
+
+Ubuntu Server 16.04 LTS: das umfassende Handbuch
+
+Über die Praxis des kulturwissenschaftlichen Arbeitens: ein Handwörterbuch
+
+Über die Realität im Zeitalter digitaler Fotografie
+
+Überwachung total: wie wir in Zukunft unsere Daten schützen
+
+UML 2 glasklar: Praxiswissen für die UML-Modellierung
+
+Understanding context: environment, language, and information architecture
+
+Understanding digital humanities
+
+Unicode explained: [internationalize documents, programs, and web sites]
+
+Unternehmen im Web 2.0: zur strategischen Integration von 
+Konsumentenleistungen durch Social Media
+
+Urheber- und Urhebervertragsrecht
+
+Urheberrecht in der digitalen Welt: brauchen wir neue Regelungen zum Urheberrecht und 
+dessen Durchsetzung? ; Gutachten F zum 70. Deutschen Juristentag
+
+Urheberrecht: Kommentar
+
+User behavior in ubiquitous online environments
+
+User Interface Engineering, 3D-Interaktion, Natural 
+User Interfaces
+
+Using computers in archaeology: towards virtual pasts
+
+Using online dictionaries
+
+Verloren unter 100 Freunden: wie wir in der digitalen Welt seelisch verkümmern
+
+Vernetztes Wissen - Daten, Menschen, Systeme: 6. Konferenz der Zentralbibliothek Forschungszentrum 
+Jülich, 5. - 7. November 2012 ; Proceedingsband
+
+Vernetztes Wissen: organisationale, motivationale, kognitive und 
+technologische Aspekte des Wissensmanagements in Unternehmensnetzwerken
+
+Vernetztes Wissen: Philosophie im Zeitalter des Internets
+
+Vertrauen und Risiko in einer digitalen Welt
+
+Verwaiste Werke: eine Analyse aus internationaler Perspektive
+
+Verwaiste Werke: Lizenzierung in Abwesenheit des Rechtsinhabers
+
+Verwaiste Werke: Regelungsmöglichkeiten auf 
+europäischer Ebene und Umsetzung im Deutschen Recht
+
+Virtual und Augmented Reality (VR/AR): Grundlagen und Methoden der virtuellen und 
+augmentierten Realität
+
+Virtuelle Instrumente im akustischen Cyberspace: zur musikalischen Ästhetik des digitalen Zeitalters
+
+Visual information retrieval using Java and LIRE
+
+Visual insights: a practical guide to making sense of data
+
+Visual interface design for digital cultural heritage: a guide to rich-prospect browsing
+
+Visualize this: the flowing data guide to design, visualization, and 
+statistics
+
+Visualizing graph data
+
+Visuelle Netzwerkforschung: qualitative, quantitative und partizipative Zugänge
+
+Von erfolgreichen Designern lernen: [schauen Sie hinter die Kulissen bekannter Agenturen 
+; Inspiration, Anregung, Wissensvorsprung ; Trends und Standards im Grafikdesign]
+
+Von Sputnik zu Google Earth: über den Perspektivenwechsel hin zu einer 
+ökologischen Weltsicht
+
+Was bleibt?: Nachhaltigkeit der Kultur in der digitalen Welt
+
+Watchblogs: Medienkritik 2.0?: Eine inhaltsanalytische Untersuchung journalistischer 
+Qualität in medienkritischen Weblogs
+
+Web 2.0 in der universitären Lehre: ein Handlungsrahmen für die Gestaltung 
+technologiegestützter Lernszenarien
+
+Web 2.0-Anwendungen mit Ajax
+
+Web design: best studios
+
+Web design: e-commerce
+
+Web design: flashfolios
+
+Web design: interactive & games
+
+Web design: music sites
+
+Web design: navigation
+
+Web design: video sites
+
+Web Engineering mit XML Technologien
+
+Web Engineering: Grundlagen für die Entwicklung von statischen und 
+dynamischen Webauftritten mit zahlreichen Beispielen, Aufgaben und Lösungen
+
+Web search engine research
+
+Web social science: concepts, data and tools for social scientists in the 
+digital age
+
+WebAttack: der Staat als Stalker ; ein Besinnungsaufsatz ; Essay
+
+Webdesign: das Handbuch zur Webgestaltung ; [attraktive Websites 
+gestalten: Layouts, Typografie, Farbe, Bilder ; Website-Konzeption, Usability
+
+Weblogs - die 5. Gewalt?: eine empirische Untersuchung zum emanzipatorischen 
+Mediengebrauch von Weblogs
+
+Webtypografie
+
+Wenn das Erbe in die Wolke kommt: Digitalisierung und kulturelles Erbe
+
+Wer definiert Wissen?: Wissensaushandlungsprozesse bei kontrovers 
+diskutierten Themen in "Wikipedia - Die freie Enzyklopädie" ; eine
+
+Wettbewerbsrecht, Gewerblicher Rechtsschutz und 
+Urheberrecht: Vorschriftensammlung
+
+What's in a word-list?: investigating word frequency and keyword extraction
+
+When biometrics fail: gender, race, and the technology of identity
+
+Wie Songs erzählen: eine computergestützte, intermediale Analyse der 
+Narrativität
+
+Wikis in Schule und Hochschule
+
+Wikis, Blogs und Podacsts: neue und nützliche Werkzeuge für den Unterricht
+
+Wireless communication and information: car to car, sensor networks and location based services
+
+Wireless communication and information: new technologies and applications
+
+Wireless communication and information: Radio Engineering and Multimedia Applications
+
+Wissen - Wissenschaft - Organisation: Bonn, 19. bis 21. Oktober 2009
+
+Wissen 2.0 für die Bildung: wie Wikipedia und Co. unsere Kultur verändern
+
+Wissenschaftskommunikation im Web 2.0: eine empirische Studie zur Mediennutzung von 
+Wissenschaftsblogs
+
+Wissenschaftssprache digital: die Zukunft von gestern
+
+Wissensorganisation und -repräsentation mit digitalen 
+Technologien
+
+Working together apart: collaboration over the Internet
+
+Working together or apart: promoting the next generation of digital scholarship 
+: report of a workshop
+
+Writing history in the digital age
+
+XML und Datenbankgrundlagen für Mediengestalter: die Bedeutung von XML für Crossmedia- und 
+Database-Publishing in der Praxis
+
+XQuery: search across a variety of XML data
+
+XSLT 2.0 and XPath 2.0: programmer's reference
+
+Zwischen artes liberales und artes digitales: Beiträge zur traditionellen und digitalen 
+Geisteswissenschaft : Festschrift gewidmet Michael Trauth zum 65. Geburtstag am
